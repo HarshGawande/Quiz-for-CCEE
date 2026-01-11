@@ -1,0 +1,5702 @@
+[
+  {
+    "id": 1,
+    "topic": "Brief history of the Internet",
+    "question": "When was the Internet first developed?",
+    "options": [
+      "1960s",
+      "1970s",
+      "1980s",
+      "1990s"
+    ],
+    "answer": "1970s"
+  },
+  {
+    "id": 2,
+    "topic": "Brief history of the Internet",
+    "question": "Which project was instrumental in the development of the early Internet?",
+    "options": [
+      "ARPANET",
+      "World Wide Web",
+      "ENIAC",
+      "UNIX"
+    ],
+    "answer": "ARPANET"
+  },
+  {
+    "id": 3,
+    "topic": "Brief history of the Internet",
+    "question": "What year was the World Wide Web (WWW) proposed by Tim Berners-Lee?",
+    "options": [
+      "1989",
+      "1991",
+      "1993",
+      "1995"
+    ],
+    "answer": "1991"
+  },
+  {
+    "id": 4,
+    "topic": "Brief history of the Internet",
+    "question": "The term \"Internet\" is a contraction of which two words?",
+    "options": [
+      "International Network",
+      "Interlinked Network",
+      "Integrated Network",
+      "Internet Network"
+    ],
+    "answer": "Interlinked Network"
+  },
+  {
+    "id": 5,
+    "topic": "Brief history of the Internet",
+    "question": "Which organization played a crucial role in the development and standardization of the Internet protocols?",
+    "options": [
+      "IEEE",
+      "IETF",
+      "ISO",
+      "ICANN"
+    ],
+    "answer": "IETF"
+  },
+  {
+    "id": 6,
+    "topic": "How does the Internet work?",
+    "question": "What technology enables devices to connect and communicate with each other over the Internet?",
+    "options": [
+      "HTTP",
+      "TCP/IP",
+      "DNS",
+      "HTML"
+    ],
+    "answer": "TCP/IP"
+  },
+  {
+    "id": 7,
+    "topic": "How does the Internet work?",
+    "question": "Which device is responsible for directing data packets to their destination across networks?",
+    "options": [
+      "Router",
+      "Modem",
+      "Hub",
+      "Switch"
+    ],
+    "answer": "Router"
+  },
+  {
+    "id": 8,
+    "topic": "How does the Internet work?",
+    "question": "Which communication model allows multiple users to access a single server simultaneously without interfering with each other's sessions?",
+    "options": [
+      "Client-Server model",
+      "Peer-to-Peer model",
+      "Broadcast model",
+      "Multicast model"
+    ],
+    "answer": "Client-Server model"
+  },
+  {
+    "id": 9,
+    "topic": "How does the Internet work?",
+    "question": "What is the primary function of a DNS server?",
+    "options": [
+      "Encrypting data for secure transmission",
+      "Translating domain names to IP addresses",
+      "Handling HTTP requests",
+      "Storing web page content"
+    ],
+    "answer": "Translating domain names to IP addresses"
+  },
+  {
+    "id": 10,
+    "topic": "How does the Internet work?",
+    "question": "Which network component provides physical connections between devices within a local network?",
+    "options": [
+      "Router",
+      "Switch",
+      "Modem",
+      "Hub"
+    ],
+    "answer": "Switch"
+  },
+  {
+    "id": 11,
+    "topic": "Internet Protocol; HTTP",
+    "question": "What does IP stand for in Internet Protocol?",
+    "options": [
+      "Internet Port",
+      "Internet Provider",
+      "Internet Protocol",
+      "Internet Packet"
+    ],
+    "answer": "Internet Protocol"
+  },
+  {
+    "id": 12,
+    "topic": "Internet Protocol; HTTP",
+    "question": "HTTP is the acronym for:",
+    "options": [
+      "Hyperlink Text Transfer Protocol",
+      "Hypertext Transfer Protocol",
+      "Hypertext Transfer Package",
+      "Hyperloop Text Transmission Process"
+    ],
+    "answer": "Hypertext Transfer Protocol"
+  },
+  {
+    "id": 13,
+    "topic": "Internet Protocol; HTTP",
+    "question": "Which version of HTTP introduced persistent connections to reduce latency?",
+    "options": [
+      "HTTP 1.0",
+      "HTTP 1.1",
+      "HTTP 2.0",
+      "HTTP 3.0"
+    ],
+    "answer": "HTTP 1.1"
+  },
+  {
+    "id": 14,
+    "topic": "Internet Protocol; HTTP",
+    "question": "What is the key difference between HTTP and HTTPS?",
+    "options": [
+      "HTTPS uses a different communication protocol.",
+      "HTTPS is used for file transfers, and HTTP is used for web pages.",
+      "HTTPS provides encryption and security, while HTTP does not.",
+      "HTTP is used for secure connections, and HTTPS is used for regular connections."
+    ],
+    "answer": "HTTPS provides encryption and security, while HTTP does not."
+  },
+  {
+    "id": 15,
+    "topic": "Internet Protocol; HTTP",
+    "question": "HTTP uses a request-response model, where a client sends a request to the server using a specific HTTP method. Which method is used to request data from a server?",
+    "options": [
+      "POST",
+      "PUT",
+      "GET",
+      "DELETE"
+    ],
+    "answer": "GET"
+  },
+  {
+    "id": 16,
+    "topic": "Domain Names; Domain Name Service servers",
+    "question": "Domain names are used to:",
+    "options": [
+      "Identify websites",
+      "Send emails",
+      "Download files",
+      "Host web servers"
+    ],
+    "answer": "Identify websites"
+  },
+  {
+    "id": 17,
+    "topic": "Domain Names; Domain Name Service servers",
+    "question": "What does DNS stand for in Domain Name Service servers?",
+    "options": [
+      "Domain Name System",
+      "Dynamic Network Server",
+      "Data Naming Service",
+      "Digital Naming Scheme"
+    ],
+    "answer": "Domain Name System"
+  },
+  {
+    "id": 18,
+    "topic": "Domain Names; Domain Name Service servers",
+    "question": "When you type a domain name in your browser, what does the DNS server do?",
+    "options": [
+      "It downloads the website's content to your computer.",
+      "It translates the domain name into an IP address.",
+      "It checks if the domain name is available for registration.",
+      "It establishes a secure connection with the website."
+    ],
+    "answer": "It translates the domain name into an IP address."
+  },
+  {
+    "id": 19,
+    "topic": "Domain Names; Domain Name Service servers",
+    "question": "Which organization oversees the allocation and management of domain names and IP addresses?",
+    "options": [
+      "IETF",
+      "W3C",
+      "ICANN",
+      "IEEE"
+    ],
+    "answer": "ICANN"
+  },
+  {
+    "id": 20,
+    "topic": "Domain Names; Domain Name Service servers",
+    "question": "What is the purpose of a top-level domain (TLD)?",
+    "options": [
+      "It represents the geographic location of a website.",
+      "It identifies the type of organization associated with the domain.",
+      "It ensures that a website is secure and uses HTTPS.",
+      "It serves as a unique identifier for a specific website."
+    ],
+    "answer": "It identifies the type of organization associated with the domain."
+  },
+  {
+    "id": 21,
+    "topic": "HTTP Protocols",
+    "question": "HTTP is a protocol used for:",
+    "options": [
+      "Transferring files over the Internet",
+      "Securing websites",
+      "Sending emails",
+      "Managing domain names"
+    ],
+    "answer": "Transferring files over the Internet"
+  },
+  {
+    "id": 22,
+    "topic": "HTTP Protocols",
+    "question": "What is the purpose of the HTTP response header?",
+    "options": [
+      "To send a request to the server",
+      "To store session data",
+      "To provide information about the server and response",
+      "To handle errors in the client-side script"
+    ],
+    "answer": "To provide information about the server and response"
+  },
+  {
+    "id": 23,
+    "topic": "HTTP Protocols",
+    "question": "Which HTTP method is used to submit data to be processed to a specified resource?",
+    "options": [
+      "GET",
+      "POST",
+      "PUT",
+      "HEAD"
+    ],
+    "answer": "POST"
+  },
+  {
+    "id": 24,
+    "topic": "HTTP Protocols",
+    "question": "The HTTP status code 200 indicates:",
+    "options": [
+      "Bad Request",
+      "Not Found",
+      "OK",
+      "Internal Server Error"
+    ],
+    "answer": "OK"
+  },
+  {
+    "id": 25,
+    "topic": "HTTP Protocols",
+    "question": "Which HTTP status code indicates that the resource is temporarily unavailable, and the client should try again later?",
+    "options": [
+      "201 Created",
+      "302 Found",
+      "503 Service Unavailable",
+      "404 Not Found"
+    ],
+    "answer": "503 Service Unavailable"
+  },
+  {
+    "id": 26,
+    "topic": "Difference between HTTP 1.0, HTTP 1.1, and HTTP 2.0",
+    "question": "How does HTTP 1.1 differ from HTTP 1.0 regarding connection management?",
+    "options": [
+      "HTTP 1.0 uses persistent connections, while HTTP 1.1 uses non-persistent connections.",
+      "HTTP 1.0 uses non-persistent connections, while HTTP 1.1 uses persistent connections.",
+      "Both HTTP 1.0 and HTTP 1.1 use persistent connections.",
+      "Both HTTP 1.0 and HTTP 1.1 use non-persistent connections."
+    ],
+    "answer": "HTTP 1.0 uses non-persistent connections, while HTTP 1.1 uses persistent connections."
+  },
+  {
+    "id": 27,
+    "topic": "Difference between HTTP 1.0, HTTP 1.1, and HTTP 2.0",
+    "question": "What is the key improvement introduced in HTTP 1.1 compared to HTTP 1.0?",
+    "options": [
+      "Introduction of the POST method",
+      "Support for cookies",
+      "Addition of status codes",
+      "Use of persistent connections"
+    ],
+    "answer": "Use of persistent connections"
+  },
+  {
+    "id": 28,
+    "topic": "Difference between HTTP 1.0, HTTP 1.1, and HTTP 2.0",
+    "question": "Which version of HTTP introduced server push functionality to enhance web performance?",
+    "options": [
+      "HTTP 1.0",
+      "HTTP 1.1",
+      "HTTP 2.0",
+      "HTTP 3.0"
+    ],
+    "answer": "HTTP 2.0"
+  },
+  {
+    "id": 29,
+    "topic": "Difference between HTTP 1.0, HTTP 1.1, and HTTP 2.0",
+    "question": "What is the main advantage of using HTTP 2.0 over HTTP 1.1?",
+    "options": [
+      "Improved security features",
+      "Faster page loading through multiplexing and compression",
+      "Support for advanced scripting languages",
+      "Compatibility with older web browsers"
+    ],
+    "answer": "Faster page loading through multiplexing and compression"
+  },
+  {
+    "id": 30,
+    "topic": "Difference between HTTP 1.0, HTTP 1.1, and HTTP 2.0",
+    "question": "Which version of HTTP is still in use but considered outdated due to its limitations in performance and security?",
+    "options": [
+      "HTTP 1.0",
+      "HTTP 1.1",
+      "HTTP 2.0",
+      "HTTP 3.0"
+    ],
+    "answer": "HTTP 1.0"
+  },
+  {
+    "id": 31,
+    "topic": "Methods \u2013 GET, POST, HEAD, PUT, DELETE, etc.",
+    "question": "Which HTTP method is used to retrieve data from a server without modifying it?",
+    "options": [
+      "GET",
+      "POST",
+      "PUT",
+      "DELETE"
+    ],
+    "answer": "GET"
+  },
+  {
+    "id": 32,
+    "topic": "Methods \u2013 GET, POST, HEAD, PUT, DELETE, etc.",
+    "question": "When using the GET method, where does the data reside in the HTTP request?",
+    "options": [
+      "In the request body",
+      "In the request headers",
+      "In the URL query parameters",
+      "In the response body"
+    ],
+    "answer": "In the URL query parameters"
+  },
+  {
+    "id": 33,
+    "topic": "Methods \u2013 GET, POST, HEAD, PUT, DELETE, etc.",
+    "question": "The POST method is often used for:",
+    "options": [
+      "Retrieving data from the server",
+      "Modifying existing data on the server",
+      "Sending data to the server for processing",
+      "Deleting data from the server"
+    ],
+    "answer": "Sending data to the server for processing"
+  },
+  {
+    "id": 34,
+    "topic": "Methods \u2013 GET, POST, HEAD, PUT, DELETE, etc.",
+    "question": "Which method is used to update or create a resource on the server?",
+    "options": [
+      "GET",
+      "POST",
+      "PUT",
+      "HEAD"
+    ],
+    "answer": "PUT"
+  },
+  {
+    "id": 35,
+    "topic": "Methods \u2013 GET, POST, HEAD, PUT, DELETE, etc.",
+    "question": "The DELETE method is used to:",
+    "options": [
+      "Retrieve data from the server",
+      "Modify existing data on the server",
+      "Send data to the server for processing",
+      "Delete a resource from the server"
+    ],
+    "answer": "Delete a resource from the server"
+  },
+  {
+    "id": 36,
+    "topic": "Status codes",
+    "question": "The HTTP status code 200 indicates:",
+    "options": [
+      "Bad Request",
+      "Not Found",
+      "OK",
+      "Internal Server Error"
+    ],
+    "answer": "OK"
+  },
+  {
+    "id": 37,
+    "topic": "Status codes",
+    "question": "What does the HTTP status code 404 signify?",
+    "options": [
+      "Not Found",
+      "Bad Request",
+      "Unauthorized",
+      "Internal Server Error"
+    ],
+    "answer": "Not Found"
+  },
+  {
+    "id": 38,
+    "topic": "Status codes",
+    "question": "The HTTP status code 500 indicates:",
+    "options": [
+      "Bad Request",
+      "Not Found",
+      "OK",
+      "Internal Server Error"
+    ],
+    "answer": "Internal Server Error"
+  },
+  {
+    "id": 39,
+    "topic": "Status codes",
+    "question": "Which HTTP status code is returned when a resource has been successfully created on the server?",
+    "options": [
+      "201 Created",
+      "204 No Content",
+      "400 Bad Request",
+      "403 Forbidden"
+    ],
+    "answer": "201 Created"
+  },
+  {
+    "id": 40,
+    "topic": "Status codes",
+    "question": "The HTTP status code 403 indicates:",
+    "options": [
+      "Bad Request",
+      "Not Found",
+      "Forbidden",
+      "Internal Server Error"
+    ],
+    "answer": "Forbidden"
+  },
+  {
+    "id": 41,
+    "topic": "Stateless nature of the protocol and HTTP Session",
+    "question": "What does it mean for HTTP to be stateless?",
+    "options": [
+      "The server keeps track of the client's state during a session.",
+      "The client maintains state information, and the server is stateless.",
+      "Both the client and server maintain state information throughout the session.",
+      "The client-server communication is not encrypted."
+    ],
+    "answer": "The client maintains state information, and the server is stateless."
+  },
+  {
+    "id": 42,
+    "topic": "Stateless nature of the protocol and HTTP Session",
+    "question": "To maintain session state in HTTP, what mechanism can be used to store session information between requests?",
+    "options": [
+      "Cookies",
+      "HTTP headers",
+      "URL query parameters",
+      "Web sockets"
+    ],
+    "answer": "Cookies"
+  },
+  {
+    "id": 43,
+    "topic": "Stateless nature of the protocol and HTTP Session",
+    "question": "Stateless nature of HTTP makes it easier to scale web applications because:",
+    "options": [
+      "It reduces the need for database storage.",
+      "It simplifies handling of concurrent user requests.",
+      "It eliminates the need for load balancing.",
+      "It speeds up the delivery of static content."
+    ],
+    "answer": "It simplifies handling of concurrent user requests."
+  },
+  {
+    "id": 44,
+    "topic": "Stateless nature of the protocol and HTTP Session",
+    "question": "In a stateless HTTP session, where is the session information stored between consecutive requests from the same client?",
+    "options": [
+      "On the server's local file system",
+      "In a server-side database",
+      "In the client's browser as cookies",
+      "In the URL query parameters"
+    ],
+    "answer": "In the client's browser as cookies"
+  },
+  {
+    "id": 45,
+    "topic": "Stateless nature of the protocol and HTTP Session",
+    "question": "What happens if the client loses the session information (e.g., due to clearing cookies)?",
+    "options": [
+      "The server sends a 404 status code to the client.",
+      "The server generates a new session ID for the client.",
+      "The server retrieves the session information from a backup database.",
+      "The client needs to re-authenticate and start a new session."
+    ],
+    "answer": "The client needs to re-authenticate and start a new session."
+  },
+  {
+    "id": 46,
+    "topic": "HTTPS",
+    "question": "What does HTTPS stand for?",
+    "options": [
+      "Hypertext Transfer Protocol System",
+      "Hypertext Transfer Protocol Secure",
+      "Hypertext Transfer Privacy System",
+      "Hypertext Transfer Public Server"
+    ],
+    "answer": "Hypertext Transfer Protocol Secure"
+  },
+  {
+    "id": 47,
+    "topic": "HTTPS",
+    "question": "What security protocol is used to encrypt data in HTTPS connections?",
+    "options": [
+      "SSL/TLS",
+      "FTP",
+      "DNS",
+      "HTTP"
+    ],
+    "answer": "SSL/TLS"
+  },
+  {
+    "id": 48,
+    "topic": "HTTPS",
+    "question": "The main purpose of HTTPS is to:",
+    "options": [
+      "Increase website performance",
+      "Securely encrypt sensitive data during transmission",
+      "Allow cross-origin resource sharing",
+      "Facilitate communication between server-side scripts"
+    ],
+    "answer": "Securely encrypt sensitive data during transmission"
+  },
+  {
+    "id": 49,
+    "topic": "HTTPS",
+    "question": "What port number is typically used for HTTPS connections?",
+    "options": [
+      "80",
+      "443",
+      "53",
+      "21"
+    ],
+    "answer": "443"
+  },
+  {
+    "id": 50,
+    "topic": "HTTPS",
+    "question": "Which certificate authority (CA) is responsible for issuing SSL/TLS certificates to websites?",
+    "options": [
+      "IETF",
+      "W3C",
+      "ICANN",
+      "Let's Encrypt"
+    ],
+    "answer": "Let's Encrypt"
+  },
+  {
+    "id": 51,
+    "topic": "Architecture of the Web",
+    "question": "The basic client-server architecture of the World Wide Web involves:",
+    "options": [
+      "Clients sending emails to servers.",
+      "Clients sending requests to servers, which then send back the requested data.",
+      "Clients hosting web pages and providing services to servers.",
+      "Servers sending data to clients for storage."
+    ],
+    "answer": "Clients sending requests to servers, which then send back the requested data."
+  },
+  {
+    "id": 52,
+    "topic": "Architecture of the Web",
+    "question": "The web browser displays the content of a web page using which language?",
+    "options": [
+      "XML",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "answer": "HTML"
+  },
+  {
+    "id": 53,
+    "topic": "Architecture of the Web",
+    "question": "What does CSS stand for in web development?",
+    "options": [
+      "Cascading Script Style",
+      "Centralized Styling System",
+      "Cascading Style Sheets",
+      "Central Server Service"
+    ],
+    "answer": "Cascading Style Sheets"
+  },
+  {
+    "id": 54,
+    "topic": "Architecture of the Web",
+    "question": "The URL of a web page specifies the web page's:",
+    "options": [
+      "HTML code",
+      "CSS styles",
+      "IP address",
+      "Address on the World Wide Web"
+    ],
+    "answer": "Address on the World Wide Web"
+  },
+  {
+    "id": 55,
+    "topic": "Architecture of the Web",
+    "question": "The client-side scripts in web development are executed by the:",
+    "options": [
+      "Web server",
+      "Web browser",
+      "DNS server",
+      "Database server"
+    ],
+    "answer": "Web browser"
+  },
+  {
+    "id": 56,
+    "topic": "Web servers \u2013 IIS, Apache server",
+    "question": "Which web server is developed and maintained by Microsoft?",
+    "options": [
+      "IIS (Internet Information Services)",
+      "Apache server",
+      "Nginx",
+      "Tomcat"
+    ],
+    "answer": "IIS (Internet Information Services)"
+  },
+  {
+    "id": 57,
+    "topic": "Web servers \u2013 IIS, Apache server",
+    "question": "Which web server is open-source and widely used across various operating systems?",
+    "options": [
+      "IIS (Internet Information Services)",
+      "Apache server",
+      "Nginx",
+      "Tomcat"
+    ],
+    "answer": "Apache server"
+  },
+  {
+    "id": 58,
+    "topic": "Web servers \u2013 IIS, Apache server",
+    "question": "The Apache server is commonly used to serve which type of web content?",
+    "options": [
+      "Dynamic web pages",
+      "Streaming video content",
+      "Static web pages",
+      "Database queries"
+    ],
+    "answer": "Static web pages"
+  },
+  {
+    "id": 59,
+    "topic": "Web servers \u2013 IIS, Apache server",
+    "question": "IIS (Internet Information Services) is typically used in conjunction with which operating system?",
+    "options": [
+      "macOS",
+      "Linux",
+      "Windows",
+      "Android"
+    ],
+    "answer": "Windows"
+  },
+  {
+    "id": 60,
+    "topic": "Web servers \u2013 IIS, Apache server",
+    "question": "What is the primary function of a web server?",
+    "options": [
+      "To manage domain names and IP addresses",
+      "To store and manage website content",
+      "To send and receive emails",
+      "To provide access to databases"
+    ],
+    "answer": "To store and manage website content"
+  },
+  {
+    "id": 61,
+    "topic": "Introduction to HTML5",
+    "question": "What does HTML5 stand for?",
+    "options": [
+      "HyperText Markup Language 5",
+      "High-Tech Markup Language 5",
+      "HyperTool Markup Language 5",
+      "Hyperspace Markup Language 5"
+    ],
+    "answer": "HyperText Markup Language 5"
+  },
+  {
+    "id": 62,
+    "topic": "Introduction to HTML5",
+    "question": "Which version of HTML was the predecessor of HTML5?",
+    "options": [
+      "HTML4",
+      "HTMLX",
+      "XHTML",
+      "HTML6"
+    ],
+    "answer": "HTML4"
+  },
+  {
+    "id": 63,
+    "topic": "Introduction to HTML5",
+    "question": "What is the primary purpose of HTML5?",
+    "options": [
+      "To enhance web page styling",
+      "To add dynamic content to web pages",
+      "To provide new features and better structure to web documents",
+      "To improve web page security"
+    ],
+    "answer": "To provide new features and better structure to web documents"
+  },
+  {
+    "id": 64,
+    "topic": "Introduction to HTML5",
+    "question": "Which browser introduced support for HTML5 and promoted its adoption?",
+    "options": [
+      "Internet Explorer",
+      "Mozilla Firefox",
+      "Google Chrome",
+      "Safari"
+    ],
+    "answer": "Google Chrome"
+  },
+  {
+    "id": 65,
+    "topic": "Introduction to HTML5",
+    "question": "What is the doctype declaration for HTML5 documents?",
+    "options": [
+      "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\">",
+      "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">",
+      "<!DOCTYPE html>",
+      "<!DOCTYPE XHTML PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\">"
+    ],
+    "answer": "<!DOCTYPE html>"
+  },
+  {
+    "id": 66,
+    "topic": "Introduction to basic HTML Tags",
+    "question": "Which HTML tag is used to create a hyperlink?",
+    "options": [
+      "<link>",
+      "<href>",
+      "<a>",
+      "<hyperlink>"
+    ],
+    "answer": "<a>"
+  },
+  {
+    "id": 67,
+    "topic": "Introduction to basic HTML Tags",
+    "question": "The <h1> to <h6> tags are used for:",
+    "options": [
+      "Creating ordered lists",
+      "Defining headings of different levels",
+      "Embedding images",
+      "Creating tables"
+    ],
+    "answer": "Defining headings of different levels"
+  },
+  {
+    "id": 68,
+    "topic": "Introduction to basic HTML Tags",
+    "question": "What does the <img> tag represent in HTML?",
+    "options": [
+      "An image",
+      "A link to another webpage",
+      "A list item",
+      "A paragraph of text"
+    ],
+    "answer": "An image"
+  },
+  {
+    "id": 69,
+    "topic": "Introduction to basic HTML Tags",
+    "question": "Which HTML tag is used to create an unordered list?",
+    "options": [
+      "<ol>",
+      "<dl>",
+      "<ul>",
+      "<li>"
+    ],
+    "answer": "<ul>"
+  },
+  {
+    "id": 70,
+    "topic": "Introduction to basic HTML Tags",
+    "question": "What is the purpose of the <iframe> tag in HTML?",
+    "options": [
+      "To create a hyperlink",
+      "To embed external content in a web page",
+      "To define a table",
+      "To format text"
+    ],
+    "answer": "To embed external content in a web page"
+  },
+  {
+    "id": 71,
+    "topic": "HTML5",
+    "question": "What is the latest version of HTML as of now?",
+    "options": [
+      "HTML4",
+      "HTML5",
+      "XHTML",
+      "HTML6"
+    ],
+    "answer": "HTML5"
+  },
+  {
+    "id": 72,
+    "topic": "HTML5",
+    "question": "HTML5 introduces a semantic approach to web page structure. What does \"semantic\" mean in this context?",
+    "options": [
+      "The use of abstract elements without specific meanings",
+      "The use of elements based on their presentational styles",
+      "The use of elements with specific meanings and roles",
+      "The use of elements with complex structures"
+    ],
+    "answer": "The use of elements with specific meanings and roles"
+  },
+  {
+    "id": 73,
+    "topic": "HTML5",
+    "question": "Which HTML5 element is used to define a section that can be reused throughout the document?",
+    "options": [
+      "<section>",
+      "<div>",
+      "<article>",
+      "<header>"
+    ],
+    "answer": "<div>"
+  },
+  {
+    "id": 74,
+    "topic": "HTML5",
+    "question": "The <canvas> tag in HTML5 is used for:",
+    "options": [
+      "Playing audio files",
+      "Displaying images",
+      "Drawing graphics and animations",
+      "Formatting text"
+    ],
+    "answer": "Drawing graphics and animations"
+  },
+  {
+    "id": 75,
+    "topic": "HTML5",
+    "question": "HTML5 introduced a new way of storing data on the client-side. What is this feature called?",
+    "options": [
+      "Local storage",
+      "Session storage",
+      "Cache storage",
+      "Database storage"
+    ],
+    "answer": "Local storage"
+  },
+  {
+    "id": 76,
+    "topic": "New features in HTML5",
+    "question": "The <video> tag in HTML5 is used for:",
+    "options": [
+      "Playing video files",
+      "Embedding YouTube videos",
+      "Displaying images",
+      "Creating animations"
+    ],
+    "answer": "Playing video files"
+  },
+  {
+    "id": 77,
+    "topic": "New features in HTML5",
+    "question": "The <aside> tag in HTML5 is used to represent:",
+    "options": [
+      "An important section of the document",
+      "A sidebar or tangentially related content",
+      "A definition list",
+      "A figure or illustration"
+    ],
+    "answer": "A sidebar or tangentially related content"
+  },
+  {
+    "id": 78,
+    "topic": "New features in HTML5",
+    "question": "Which attribute is used to specify the source of an audio file in the <audio> tag?",
+    "options": [
+      "src",
+      "href",
+      "link",
+      "location"
+    ],
+    "answer": "src"
+  },
+  {
+    "id": 79,
+    "topic": "New features in HTML5",
+    "question": "The <mark> tag in HTML5 is used to:",
+    "options": [
+      "Highlight text for emphasis",
+      "Create inline images",
+      "Add a horizontal rule",
+      "Display a progress bar"
+    ],
+    "answer": "Highlight text for emphasis"
+  },
+  {
+    "id": 80,
+    "topic": "New features in HTML5",
+    "question": "The <time> tag in HTML5 is used to represent:",
+    "options": [
+      "A specific time of the day",
+      "A duration of time",
+      "A deadline or due date",
+      "An interval of time"
+    ],
+    "answer": "A duration of time"
+  },
+  {
+    "id": 81,
+    "topic": "HTML5 Validation",
+    "question": "In HTML5, what is the purpose of validation?",
+    "options": [
+      "To check the responsiveness of a web page",
+      "To verify the correctness of the web page layout",
+      "To ensure that the web page complies with HTML5 syntax and rules",
+      "To scan for viruses and malware"
+    ],
+    "answer": "To ensure that the web page complies with HTML5 syntax and rules"
+  },
+  {
+    "id": 82,
+    "topic": "HTML5 Validation",
+    "question": "What is the recommended way to validate an HTML5 document?",
+    "options": [
+      "Using the \"W3C HTML Validator\" tool",
+      "Checking the document's appearance in multiple web browsers",
+      "Validating the document using an online HTML editor",
+      "Manually inspecting the code for errors"
+    ],
+    "answer": "Using the \"W3C HTML Validator\" tool"
+  },
+  {
+    "id": 83,
+    "topic": "HTML5 Validation",
+    "question": "What is the consequence of having invalid HTML5 code on a web page?",
+    "options": [
+      "The web page will not load in any web browser.",
+      "The web page may not display correctly or as intended.",
+      "The web page will be completely inaccessible to users.",
+      "The web page will display a warning message to users."
+    ],
+    "answer": "The web page may not display correctly or as intended."
+  },
+  {
+    "id": 84,
+    "topic": "HTML5 Validation",
+    "question": "Which type of error will the HTML5 validator typically detect?",
+    "options": [
+      "Server-side errors",
+      "Layout and design errors",
+      "Syntax and code errors",
+      "Client-side errors"
+    ],
+    "answer": "Syntax and code errors"
+  },
+  {
+    "id": 85,
+    "topic": "HTML5 Validation",
+    "question": "In HTML5, which attribute is used to specify the character encoding of the document and aid in validation?",
+    "options": [
+      "charset",
+      "encoding",
+      "type",
+      "lang"
+    ],
+    "answer": "charset"
+  },
+  {
+    "id": 86,
+    "topic": "Audio & Video Support",
+    "question": "The <audio> tag in HTML5 can be used to play audio files in various formats. Which of the following is a supported audio file format?",
+    "options": [
+      "MP3",
+      "AVI",
+      "MKV",
+      "GIF"
+    ],
+    "answer": "MP3"
+  },
+  {
+    "id": 87,
+    "topic": "Audio & Video Support",
+    "question": "How can you embed a video in an HTML5 document?",
+    "options": [
+      "Using the <video> tag with the video file's URL in the src attribute",
+      "Using the <iframe> tag with the video's URL as the src attribute",
+      "Using the <embed> tag with the video file's URL in the src attribute",
+      "Using the <object> tag with the video file's URL in the data attribute"
+    ],
+    "answer": "Using the <video> tag with the video file's URL in the src attribute"
+  },
+  {
+    "id": 88,
+    "topic": "Audio & Video Support",
+    "question": "What attribute is used in the <video> tag to specify whether the video should start playing automatically?",
+    "options": [
+      "autoplay",
+      "play",
+      "start",
+      "auto-play"
+    ],
+    "answer": "autoplay"
+  },
+  {
+    "id": 89,
+    "topic": "Audio & Video Support",
+    "question": "Which attribute is used to specify a fallback audio file for browsers that do not support the <audio> tag or the specified audio format?",
+    "options": [
+      "fallback",
+      "alternative",
+      "alt",
+      "backup"
+    ],
+    "answer": "fallback"
+  },
+  {
+    "id": 90,
+    "topic": "Audio & Video Support",
+    "question": "How can you control the volume of an audio or video element using HTML5?",
+    "options": [
+      "There is no volume control in HTML5; it must be controlled by external scripts.",
+      "Using the volume attribute with values between 0.0 (silent) and 1.0 (full volume)",
+      "By adding volume control buttons next to the audio or video element",
+      "By specifying the volume in the CSS style of the <audio> or <video> tag"
+    ],
+    "answer": "Using the volume attribute with values between 0.0 (silent) and 1.0 (full volume)"
+  },
+  {
+    "id": 91,
+    "topic": "Geo-location Support",
+    "question": "HTML5 provides a feature to determine the geographical location of the user. Which API enables this functionality?",
+    "options": [
+      "Geo API",
+      "Geolocation API",
+      "Location API",
+      "GPS API"
+    ],
+    "answer": "Geolocation API"
+  },
+  {
+    "id": 92,
+    "topic": "Geo-location Support",
+    "question": "What is the method used to retrieve the user's current location using the Geolocation API in HTML5?",
+    "options": [
+      "getUserLocation()",
+      "getCurrentPosition()",
+      "findUserLocation()",
+      "getCurrentLocation()"
+    ],
+    "answer": "getCurrentPosition()"
+  },
+  {
+    "id": 93,
+    "topic": "Geo-location Support",
+    "question": "The Geolocation API requires user permission to access the user's location. How does the browser prompt the user for permission?",
+    "options": [
+      "By automatically allowing access without prompting the user",
+      "By displaying a message requesting permission to access location information",
+      "By displaying a map showing the user's current location and asking for confirmation",
+      "By redirecting the user to the device's location settings"
+    ],
+    "answer": "By displaying a message requesting permission to access location information"
+  },
+  {
+    "id": 94,
+    "topic": "Geo-location Support",
+    "question": "What information does the Geolocation API provide about the user's location?",
+    "options": [
+      "The user's name and contact information",
+      "The latitude and longitude coordinates of the user's current position",
+      "The user's home address and zip code",
+      "The user's IP address and internet service provider"
+    ],
+    "answer": "The latitude and longitude coordinates of the user's current position"
+  },
+  {
+    "id": 95,
+    "topic": "Geo-location Support",
+    "question": "Can the Geolocation API be used on all devices and browsers?",
+    "options": [
+      "Yes, it is supported on all devices and browsers.",
+      "No, it is only supported on mobile devices and some modern browsers.",
+      "Yes, but it requires a specific plugin to be installed on the browser.",
+      "No, it is not supported on any devices or browsers."
+    ],
+    "answer": "No, it is only supported on mobile devices and some modern browsers."
+  },
+  {
+    "id": 96,
+    "topic": "HTML Forms & Controls",
+    "question": "In HTML, which tag is used to create a form?",
+    "options": [
+      "<form>",
+      "<input>",
+      "<label>",
+      "<fieldset>"
+    ],
+    "answer": "<form>"
+  },
+  {
+    "id": 97,
+    "topic": "HTML Forms & Controls",
+    "question": "The <input> tag is used to create various form controls. Which type attribute is used to create a checkbox?",
+    "options": [
+      "type=\"checkbox\"",
+      "type=\"check\"",
+      "type=\"radio\"",
+      "type=\"option\""
+    ],
+    "answer": "type=\"checkbox\""
+  },
+  {
+    "id": 98,
+    "topic": "HTML Forms & Controls",
+    "question": "What is the purpose of the <textarea> tag in HTML forms?",
+    "options": [
+      "To create a text input field for entering email addresses",
+      "To create a drop-down list of options",
+      "To create a multi-line text input field",
+      "To create a slider control"
+    ],
+    "answer": "To create a multi-line text input field"
+  },
+  {
+    "id": 99,
+    "topic": "HTML Forms & Controls",
+    "question": "Which form control allows users to select multiple options from a list?",
+    "options": [
+      "<select>",
+      "<radio>",
+      "<checkbox>",
+      "<input type=\"range\">"
+    ],
+    "answer": "<select>"
+  },
+  {
+    "id": 100,
+    "topic": "HTML Forms & Controls",
+    "question": "The <button> tag in HTML is used to create a clickable button. What is the default behavior of a button element in a form?",
+    "options": [
+      "It submits the form data to the server.",
+      "It resets the form to its initial values.",
+      "It opens a new web page specified in the form's action attribute.",
+      "It does not have any default behavior; it needs JavaScript to handle its functionality."
+    ],
+    "answer": "It does not have any default behavior; it needs JavaScript to handle its functionality."
+  },
+  {
+    "id": 101,
+    "topic": "Introduction to Document Object Model (DOM)",
+    "question": "What is the Document Object Model (DOM) in HTML?",
+    "options": [
+      "It is a programming language used to create dynamic web pages.",
+      "It is a style sheet language used to format the appearance of web pages.",
+      "It is an application programming interface (API) that represents the structure of an HTML document as objects.",
+      "It is a scripting language used for server-side programming."
+    ],
+    "answer": "It is an application programming interface (API) that represents the structure of an HTML document as objects."
+  },
+  {
+    "id": 102,
+    "topic": "Introduction to Document Object Model (DOM)",
+    "question": "document as objects. How can JavaScript interact with the DOM?",
+    "options": [
+      "By directly modifying the HTML file",
+      "By using CSS to control the document's appearance",
+      "By querying and manipulating the HTML elements and attributes using JavaScript",
+      "By accessing the server's database"
+    ],
+    "answer": "By querying and manipulating the HTML elements and attributes using JavaScript"
+  },
+  {
+    "id": 103,
+    "topic": "Introduction to Document Object Model (DOM)",
+    "question": "In the DOM, what is a node?",
+    "options": [
+      "A web browser used to view HTML documents",
+      "A single HTML element in a web page",
+      "A script used to enhance the functionality of a web page",
+      "A server that serves HTML documents to clients"
+    ],
+    "answer": "A single HTML element in a web page"
+  },
+  {
+    "id": 104,
+    "topic": "Introduction to Document Object Model (DOM)",
+    "question": "Which method is used to access an HTML element by its ID in JavaScript?",
+    "options": [
+      "getElementByClass",
+      "getElementByTag",
+      "getElementByName",
+      "getElementById"
+    ],
+    "answer": "getElementById"
+  },
+  {
+    "id": 105,
+    "topic": "Introduction to Document Object Model (DOM)",
+    "question": "The DOM allows you to add event listeners to HTML elements. What are event listeners used for?",
+    "options": [
+      "To modify the appearance of HTML elements",
+      "To add new HTML elements to a web page",
+      "To handle user interactions with HTML elements, such as clicks or input",
+      "To query and manipulate the document's structure"
+    ],
+    "answer": "To handle user interactions with HTML elements, such as clicks or input"
+  },
+  {
+    "id": 106,
+    "topic": "Introduction to CSS",
+    "question": "What does CSS stand for?",
+    "options": [
+      "Cascading Style System",
+      "Computer Style Sheets",
+      "Colorful Style Sheets",
+      "Cascading Style Sheets"
+    ],
+    "answer": "Cascading Style Sheets"
+  },
+  {
+    "id": 107,
+    "topic": "Introduction to CSS",
+    "question": "What is the primary purpose of CSS in web development?",
+    "options": [
+      "To define the structure and layout of an HTML document",
+      "To add interactivity and dynamic content to a web page",
+      "To create responsive designs for mobile devices",
+      "To style and format the appearance of an HTML document"
+    ],
+    "answer": "To style and format the appearance of an HTML document"
+  },
+  {
+    "id": 108,
+    "topic": "Introduction to CSS",
+    "question": "Which of the following is NOT a valid CSS selector?",
+    "options": [
+      ".class-name",
+      "#id-name",
+      "<p>",
+      "h1"
+    ],
+    "answer": "<p>"
+  },
+  {
+    "id": 109,
+    "topic": "Introduction to CSS",
+    "question": "How is CSS typically written and applied to an HTML document?",
+    "options": [
+      "In a separate JavaScript file linked to the HTML document",
+      "Within the <style> tags in the HTML document",
+      "Within the <head> section of the HTML document",
+      "As inline styles directly within the HTML elements"
+    ],
+    "answer": "Within the <style> tags in the HTML document"
+  },
+  {
+    "id": 110,
+    "topic": "Introduction to CSS",
+    "question": "What is the purpose of the \"cascading\" in Cascading Style Sheets?",
+    "options": [
+      "It refers to the process of combining multiple CSS files into one.",
+      "It refers to the way styles are applied from top to bottom in an HTML document.",
+      "It means that styles can be inherited from parent elements to child elements.",
+      "It refers to the process of transforming HTML elements into styled components."
+    ],
+    "answer": "It refers to the way styles are applied from top to bottom in an HTML document."
+  },
+  {
+    "id": 111,
+    "topic": "Introduction to CSS",
+    "question": "Which CSS property is used to set the color of text?",
+    "options": [
+      "font-size",
+      "text-align",
+      "color",
+      "background-color"
+    ],
+    "answer": "color"
+  },
+  {
+    "id": 112,
+    "topic": "Introduction to CSS",
+    "question": "What is the correct syntax for adding comments in CSS?",
+    "options": [
+      "/* This is a comment */",
+      "// This is a comment //",
+      "<!-- This is a comment -->",
+      "# This is a comment #"
+    ],
+    "answer": "/* This is a comment */"
+  },
+  {
+    "id": 113,
+    "topic": "Introduction to CSS",
+    "question": "Which CSS property is used to control the spacing between lines of text?",
+    "options": [
+      "line-height",
+      "letter-spacing",
+      "word-spacing",
+      "text-indent"
+    ],
+    "answer": "line-height"
+  },
+  {
+    "id": 114,
+    "topic": "Introduction to CSS",
+    "question": "How can you apply multiple CSS styles to a single HTML element?",
+    "options": [
+      "By using the <styles> tag",
+      "By linking multiple CSS files in the HTML document",
+      "By using multiple <style> tags in the HTML document",
+      "By separating the styles with commas within the <style> tags"
+    ],
+    "answer": "By using multiple <style> tags in the HTML document"
+  },
+  {
+    "id": 115,
+    "topic": "Introduction to CSS",
+    "question": "Which CSS property is used to create rounded corners for an element?",
+    "options": [
+      "border-radius",
+      "corner-radius",
+      "rounded-border",
+      "border-style"
+    ],
+    "answer": "border-radius"
+  },
+  {
+    "id": 116,
+    "topic": "Styling HTML with CSS",
+    "question": "The CSS property \"text-decoration\" is used for:",
+    "options": [
+      "Changing the font size of the text",
+      "Underlining or strikethrough text",
+      "Adjusting the spacing between characters",
+      "Setting the color of the text"
+    ],
+    "answer": "Underlining or strikethrough text"
+  },
+  {
+    "id": 117,
+    "topic": "Styling HTML with CSS",
+    "question": "What is the correct CSS syntax to apply a background color to a paragraph element with the class \"highlight\"?",
+    "options": [
+      ".highlight { background-color: #FF0000; }",
+      "#highlight { background-color: #FF0000; }",
+      "<p class=\"highlight\"> { background-color: #FF0000; }",
+      "<paragraph class=\"highlight\"> { background-color: #FF0000; }"
+    ],
+    "answer": ".highlight { background-color: #FF0000; }"
+  },
+  {
+    "id": 118,
+    "topic": "Styling HTML with CSS",
+    "question": "The CSS property \"font-family\" is used to:",
+    "options": [
+      "Set the size of the text font",
+      "Change the spacing between lines of text",
+      "Specify the typeface or font style of the text",
+      "Define the color of the text"
+    ],
+    "answer": "Specify the typeface or font style of the text"
+  },
+  {
+    "id": 119,
+    "topic": "Styling HTML with CSS",
+    "question": "How can you apply CSS styles to a specific HTML element with the ID \"header\"?",
+    "options": [
+      ".header { /* CSS styles here / }",
+      "#header { / CSS styles here / }",
+      "<header> { / CSS styles here / }",
+      "<div id=\"header\"> { / CSS styles here */ }"
+    ],
+    "answer": "#header { / CSS styles here / }"
+  },
+  {
+    "id": 120,
+    "topic": "Styling HTML with CSS",
+    "question": "The CSS property \"margin\" is used to control:",
+    "options": [
+      "The width of the border around an element",
+      "The spacing between the content and the border of an element",
+      "The spacing between elements on the page",
+      "The alignment of the text within an element"
+    ],
+    "answer": "The spacing between elements on the page"
+  },
+  {
+    "id": 121,
+    "topic": "Styling HTML with CSS",
+    "question": "How can you apply CSS styles to multiple HTML elements with the class \"highlight\"?",
+    "options": [
+      ".highlight { /* CSS styles here / }",
+      "#highlight { / CSS styles here / }",
+      "<p class=\"highlight\"> { / CSS styles here / }",
+      "<div class=\"highlight\"> { / CSS styles here */ }"
+    ],
+    "answer": ".highlight { /* CSS styles here / }"
+  },
+  {
+    "id": 122,
+    "topic": "Styling HTML with CSS",
+    "question": "The CSS property \"text-align\" is used to:",
+    "options": [
+      "Adjust the spacing between characters in text",
+      "Change the alignment of text within an element",
+      "Set the font style for text",
+      "Underline or strikethrough text"
+    ],
+    "answer": "Change the alignment of text within an element"
+  },
+  {
+    "id": 123,
+    "topic": "Styling HTML with CSS",
+    "question": "How can you apply a CSS style to all <h2> elements within a <div> element?",
+    "options": [
+      "div h2 { /* CSS styles here / }",
+      "div > h2 { / CSS styles here / }",
+      "div + h2 { / CSS styles here / }",
+      "div ~ h2 { / CSS styles here */ }"
+    ],
+    "answer": "div h2 { /* CSS styles here / }"
+  },
+  {
+    "id": 124,
+    "topic": "Styling HTML with CSS",
+    "question": "The CSS property \"padding\" is used to control:",
+    "options": [
+      "The width of the border around an element",
+      "The spacing between the content and the border of an element",
+      "The alignment of the text within an element",
+      "The spacing between elements on the page"
+    ],
+    "answer": "The spacing between the content and the border of an element"
+  },
+  {
+    "id": 125,
+    "topic": "Styling HTML with CSS",
+    "question": "How can you apply CSS styles to all <a> elements that are children of a <div> element with the class \"menu\"?",
+    "options": [
+      ".menu <a> { /* CSS styles here / }",
+      "#menu <a> { / CSS styles here / }",
+      "div.menu <a> { / CSS styles here / }",
+      "<div class=\"menu\"> <a> { / CSS styles here */ }"
+    ],
+    "answer": "div.menu <a> { / CSS styles here / }"
+  },
+  {
+    "id": 126,
+    "topic": "Structuring pages with CSS",
+    "question": "The CSS property \"display\" is used to:",
+    "options": [
+      "Control the visibility of an element on the page",
+      "Set the size of the text font",
+      "Define the layout and formatting of an element",
+      "Change the alignment of text within an element"
+    ],
+    "answer": "Define the layout and formatting of an element"
+  },
+  {
+    "id": 127,
+    "topic": "Structuring pages with CSS",
+    "question": "How can you apply a CSS style to an element only when the mouse pointer is hovering over it?",
+    "options": [
+      ":hover { /* CSS styles here / }",
+      ":active { / CSS styles here / }",
+      ":focus { / CSS styles here / }",
+      ":link { / CSS styles here */ }"
+    ],
+    "answer": ":hover { /* CSS styles here / }"
+  },
+  {
+    "id": 128,
+    "topic": "Structuring pages with CSS",
+    "question": "The CSS property \"position\" is used to:",
+    "options": [
+      "Change the spacing between characters in text",
+      "Control the spacing between the content and the border of an element",
+      "Set the font style for text",
+      "Define the positioning of an element on the page"
+    ],
+    "answer": "Define the positioning of an element on the page"
+  },
+  {
+    "id": 129,
+    "topic": "Structuring pages with CSS",
+    "question": "How can you apply a CSS style to the first line of text within an element?",
+    "options": [
+      ":first-line { /* CSS styles here / }",
+      ":first-child { / CSS styles here / }",
+      ":first-letter { / CSS styles here / }",
+      ":first-of-type { / CSS styles here */ }"
+    ],
+    "answer": ":first-letter { / CSS styles here / }"
+  },
+  {
+    "id": 130,
+    "topic": "Structuring pages with CSS",
+    "question": "The CSS property \"float\" is used to:",
+    "options": [
+      "Align text within an element",
+      "Create a drop-down menu",
+      "Position an element to the left or right of its container",
+      "Apply a shadow effect to an element"
+    ],
+    "answer": "Position an element to the left or right of its container"
+  },
+  {
+    "id": 131,
+    "topic": "Structuring pages with CSS",
+    "question": "How can you apply a CSS style to an element only when it is visited by the user?",
+    "options": [
+      ":visited { /* CSS styles here / }",
+      ":active { / CSS styles here / }",
+      ":hover { / CSS styles here / }",
+      ":link { / CSS styles here */ }"
+    ],
+    "answer": ":visited { /* CSS styles here / }"
+  },
+  {
+    "id": 132,
+    "topic": "Structuring pages with CSS",
+    "question": "The CSS property \"z-index\" is used to:",
+    "options": [
+      "Define the position of an element in the z-axis (depth) of the page",
+      "Set the font style for text",
+      "Control the spacing between elements on the page",
+      "Change the alignment of text within an element"
+    ],
+    "answer": "Define the position of an element in the z-axis (depth) of the page"
+  },
+  {
+    "id": 133,
+    "topic": "Structuring pages with CSS",
+    "question": "How can you apply a CSS style to an element only when the user is interacting with it?",
+    "options": [
+      ":focus { /* CSS styles here / }",
+      ":active { / CSS styles here / }",
+      ":hover { / CSS styles here / }",
+      ":link { / CSS styles here */ }"
+    ],
+    "answer": ":focus { /* CSS styles here / }"
+  },
+  {
+    "id": 134,
+    "topic": "Structuring pages with CSS",
+    "question": "The CSS property \"opacity\" is used to:",
+    "options": [
+      "Control the visibility of an element on the page",
+      "Set the font size of the text",
+      "Change the spacing between characters in text",
+      "Apply a background color to an element"
+    ],
+    "answer": "Control the visibility of an element on the page"
+  },
+  {
+    "id": 135,
+    "topic": "Structuring pages with CSS",
+    "question": "How can you apply a CSS style to an element only when it is the last child of its parent element?",
+    "options": [
+      ":last-child { /* CSS styles here / }",
+      ":last-of-type { / CSS styles here / }",
+      ":last-line { / CSS styles here / }",
+      ":last-letter { / CSS styles here */ }"
+    ],
+    "answer": ":last-child { /* CSS styles here / }"
+  },
+  {
+    "id": 136,
+    "topic": "Inline CSS, Internal CSS, External CSS",
+    "question": "What is Inline CSS?",
+    "options": [
+      "CSS written within the <head> section of the HTML document",
+      "CSS written directly within the HTML element's \"style\" attribute",
+      "CSS written in a separate external CSS file",
+      "CSS applied using JavaScript"
+    ],
+    "answer": "CSS written directly within the HTML element's \"style\" attribute"
+  },
+  {
+    "id": 137,
+    "topic": "Inline CSS, Internal CSS, External CSS",
+    "question": "What is Internal CSS?",
+    "options": [
+      "CSS written within the <head> section of the HTML document",
+      "CSS written directly within the HTML element's \"style\" attribute",
+      "CSS written in a separate external CSS file",
+      "CSS applied using JavaScript"
+    ],
+    "answer": "CSS written within the <head> section of the HTML document"
+  },
+  {
+    "id": 138,
+    "topic": "Inline CSS, Internal CSS, External CSS",
+    "question": "What is External CSS?",
+    "options": [
+      "CSS written within the <head> section of the HTML document",
+      "CSS written directly within the HTML element's \"style\" attribute",
+      "CSS written in a separate external CSS file",
+      "CSS applied using JavaScript"
+    ],
+    "answer": "CSS written in a separate external CSS file"
+  },
+  {
+    "id": 139,
+    "topic": "Inline CSS, Internal CSS, External CSS",
+    "question": "Which method of applying CSS is considered the best practice for larger websites with multiple pages?",
+    "options": [
+      "Inline CSS",
+      "Internal CSS",
+      "External CSS",
+      "Applying CSS using JavaScript"
+    ],
+    "answer": "External CSS"
+  },
+  {
+    "id": 140,
+    "topic": "Inline CSS, Internal CSS, External CSS",
+    "question": "What is the main advantage of using External CSS?",
+    "options": [
+      "It allows for greater control over the styles applied to individual elements",
+      "It ensures that CSS styles are applied consistently across multiple pages",
+      "It reduces the loading time of the web page by caching the CSS file",
+      "It enables dynamic changes to the CSS styles based on user interactions"
+    ],
+    "answer": "It ensures that CSS styles are applied consistently across multiple pages"
+  },
+  {
+    "id": 141,
+    "topic": "Inline CSS, Internal CSS, External CSS",
+    "question": "Which CSS type has the highest specificity and will override other CSS rules?",
+    "options": [
+      "Inline CSS",
+      "Internal CSS",
+      "External CSS",
+      "All CSS types have equal specificity"
+    ],
+    "answer": "Inline CSS"
+  },
+  {
+    "id": 142,
+    "topic": "Inline CSS, Internal CSS, External CSS",
+    "question": "What is the correct way to link an external CSS file to an HTML document?",
+    "options": [
+      "<link href=\"styles.css\" type=\"text/css\" rel=\"stylesheet\">",
+      "<css src=\"styles.css\"></css>",
+      "<style src=\"styles.css\"></style>",
+      "<css file=\"styles.css\"></css>"
+    ],
+    "answer": "<link href=\"styles.css\" type=\"text/css\" rel=\"stylesheet\">"
+  },
+  {
+    "id": 143,
+    "topic": "Inline CSS, Internal CSS, External CSS",
+    "question": "Can you use multiple external CSS files on a single HTML document?",
+    "options": [
+      "Yes, but it may cause conflicts between the styles.",
+      "No, only one external CSS file can be linked to an HTML document.",
+      "Yes, but they must be merged into a single CSS file before linking.",
+      "Yes, by using the <style> tag to embed them in the <head> section."
+    ],
+    "answer": "Yes, but it may cause conflicts between the styles."
+  },
+  {
+    "id": 144,
+    "topic": "Inline CSS, Internal CSS, External CSS",
+    "question": "What happens if the same CSS property is defined in both an external CSS file and inline CSS for the same HTML element?",
+    "options": [
+      "The inline CSS will take precedence over the external CSS.",
+      "The external CSS will take precedence over the inline CSS.",
+      "Both styles will be combined and applied to the element.",
+      "The browser will display an error."
+    ],
+    "answer": "The inline CSS will take precedence over the external CSS."
+  },
+  {
+    "id": 145,
+    "topic": "Inline CSS, Internal CSS, External CSS",
+    "question": "How does the use of External CSS improve website maintenance and management?",
+    "options": [
+      "It allows for faster loading of the web page.",
+      "It reduces the need to update styles across multiple pages.",
+      "It eliminates the need for the <style> tag in the HTML document.",
+      "It automatically generates CSS styles based on the HTML structure."
+    ],
+    "answer": "It reduces the need to update styles across multiple pages."
+  },
+  {
+    "id": 146,
+    "topic": "Multiple styles, CSS Fonts",
+    "question": "When using multiple styles for the same HTML element, which style takes precedence?",
+    "options": [
+      "The style defined in the first linked CSS file",
+      "The style defined in the last linked CSS file",
+      "The style defined in the inline CSS",
+      "The style defined in the <head> section of the HTML document"
+    ],
+    "answer": "The style defined in the inline CSS"
+  },
+  {
+    "id": 147,
+    "topic": "Multiple styles, CSS Fonts",
+    "question": "The CSS property \"font-family\" is used to:",
+    "options": [
+      "Set the font size of the text",
+      "Specify the typeface or font style of the text",
+      "Change the alignment of text within an element",
+      "Control the spacing between characters in text"
+    ],
+    "answer": "Specify the typeface or font style of the text"
+  },
+  {
+    "id": 148,
+    "topic": "Multiple styles, CSS Fonts",
+    "question": "How can you apply different font styles to different HTML elements using CSS?",
+    "options": [
+      "By using the <font> tag with different font styles for each element",
+      "By defining font styles in the <head> section of the HTML document",
+      "By linking multiple CSS files with different font styles for each element",
+      "By using the \"font\" property in the CSS style for each element"
+    ],
+    "answer": "By using the \"font\" property in the CSS style for each element"
+  },
+  {
+    "id": 149,
+    "topic": "Multiple styles, CSS Fonts",
+    "question": "Which CSS property is used to set the size of the text font?",
+    "options": [
+      "font-size",
+      "font-family",
+      "font-weight",
+      "font-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "id": 150,
+    "topic": "Multiple styles, CSS Fonts",
+    "question": "The CSS property \"font-weight\" is used to:",
+    "options": [
+      "Set the font size of the text",
+      "Specify the typeface or font style of the text",
+      "Control the spacing between characters in text",
+      "Define the thickness or boldness of the text font"
+    ],
+    "answer": "Define the thickness or boldness of the text font"
+  },
+  {
+    "id": 151,
+    "topic": "Multiple styles, CSS Fonts",
+    "question": "What is the correct way to define a font stack in CSS, where \"Arial\" is the preferred font and \"sans- serif\" is the fallback?",
+    "options": [
+      "font-family: Arial, sans-serif;",
+      "font-family: sans-serif, Arial;",
+      "font-family: Arial;",
+      "font-family: sans-serif;"
+    ],
+    "answer": "font-family: Arial, sans-serif;"
+  },
+  {
+    "id": 152,
+    "topic": "Multiple styles, CSS Fonts",
+    "question": "How can you apply a CSS style to all <h1> elements on a web page?",
+    "options": [
+      "h1 { /* CSS styles here / }",
+      ".h1 { / CSS styles here / }",
+      "<h1> { / CSS styles here / }",
+      "#h1 { / CSS styles here */ }"
+    ],
+    "answer": "h1 { /* CSS styles here / }"
+  },
+  {
+    "id": 153,
+    "topic": "Multiple styles, CSS Fonts",
+    "question": "The CSS property \"text-transform\" is used to:",
+    "options": [
+      "Change the alignment of text within an element",
+      "Control the spacing between characters in text",
+      "Set the font style for text",
+      "Transform the case of text to uppercase, lowercase, or capitalize"
+    ],
+    "answer": "Transform the case of text to uppercase, lowercase, or capitalize"
+  },
+  {
+    "id": 154,
+    "topic": "Multiple styles, CSS Fonts",
+    "question": "How can you apply a CSS style to an element only when it is the first child of its parent element?",
+    "options": [
+      ":first-child { /* CSS styles here / }",
+      ":first-of-type { / CSS styles here / }",
+      ":first-line { / CSS styles here / }",
+      ":first-letter { / CSS styles here */ }"
+    ],
+    "answer": ":first-child { /* CSS styles here / }"
+  },
+  {
+    "id": 155,
+    "topic": "Multiple styles, CSS Fonts",
+    "question": "The CSS property \"letter-spacing\" is used to:",
+    "options": [
+      "Set the font size of the text",
+      "Change the alignment of text within an element",
+      "Control the spacing between characters in text",
+      "Define the thickness or boldness of the text font"
+    ],
+    "answer": "Control the spacing between characters in text"
+  },
+  {
+    "id": 156,
+    "topic": "CSS Box Model",
+    "question": "What is the CSS Box Model?",
+    "options": [
+      "A model used to create 3D shapes in CSS",
+      "A model used to define the structure and layout of a web page",
+      "A model used to represent the visual layout of an HTML element",
+      "A model used to create animations and transitions in CSS"
+    ],
+    "answer": "A model used to represent the visual layout of an HTML element"
+  },
+  {
+    "id": 157,
+    "topic": "CSS Box Model",
+    "question": "How many layers or components are included in the CSS Box Model?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": 158,
+    "topic": "CSS Box Model",
+    "question": "Which of the following is NOT a component of the CSS Box Model?",
+    "options": [
+      "Margin",
+      "Padding",
+      "Border",
+      "Background"
+    ],
+    "answer": "Background"
+  },
+  {
+    "id": 159,
+    "topic": "CSS Box Model",
+    "question": "The CSS property \"margin\" is used to control:",
+    "options": [
+      "The space between the content and the border of an element",
+      "The size of the border around an element",
+      "The spacing between elements on the page",
+      "The alignment of text within an element"
+    ],
+    "answer": "The spacing between elements on the page"
+  },
+  {
+    "id": 160,
+    "topic": "CSS Box Model",
+    "question": "The CSS property \"padding\" is used to control:",
+    "options": [
+      "The space between the content and the border of an element",
+      "The size of the border around an element",
+      "The spacing between elements on the page",
+      "The alignment of text within an element"
+    ],
+    "answer": "The space between the content and the border of an element"
+  },
+  {
+    "id": 161,
+    "topic": "CSS Box Model",
+    "question": "The CSS property \"border\" is used to control:",
+    "options": [
+      "The space between the content and the border of an element",
+      "The size of the border around an element",
+      "The spacing between elements on the page",
+      "The alignment of text within an element"
+    ],
+    "answer": "The size of the border around an element"
+  },
+  {
+    "id": 162,
+    "topic": "CSS Box Model",
+    "question": "The CSS property \"box-sizing\" is used to control:",
+    "options": [
+      "The alignment of text within an element",
+      "The size of the border around an element",
+      "The spacing between elements on the page",
+      "How the total width and height of an element are calculated"
+    ],
+    "answer": "How the total width and height of an element are calculated"
+  },
+  {
+    "id": 163,
+    "topic": "CSS Box Model",
+    "question": "What is the default value of the \"box-sizing\" property in CSS?",
+    "options": [
+      "content-box",
+      "border-box",
+      "padding-box",
+      "margin-box"
+    ],
+    "answer": "content-box"
+  },
+  {
+    "id": 164,
+    "topic": "CSS Box Model",
+    "question": "How can you include the padding and border in the total width and height of an element's box?",
+    "options": [
+      "box-sizing: border-box;",
+      "box-sizing: content-box;",
+      "box-sizing: padding-box;",
+      "box-sizing: margin-box;"
+    ],
+    "answer": "box-sizing: border-box;"
+  },
+  {
+    "id": 165,
+    "topic": "CSS Box Model",
+    "question": "What is the formula for calculating the total width of an element's box, including content, padding, and border?",
+    "options": [
+      "total width = width + padding + border",
+      "total width = width + padding * 2 + border * 2",
+      "total width = width - padding - border",
+      "total width = width - padding * 2 - border * 2"
+    ],
+    "answer": "total width = width + padding * 2 + border * 2"
+  },
+  {
+    "id": 166,
+    "topic": "id Attribute, class Attribute",
+    "question": "In HTML, the \"id\" attribute is used to:",
+    "options": [
+      "Apply multiple styles to an element",
+      "Group similar elements together",
+      "Identify a unique element on the page",
+      "Define the box model of an element"
+    ],
+    "answer": "Identify a unique element on the page"
+  },
+  {
+    "id": 167,
+    "topic": "id Attribute, class Attribute",
+    "question": "How is the \"id\" attribute represented in CSS selectors?",
+    "options": [
+      ".id",
+      "#id",
+      "<id>",
+      "@id"
+    ],
+    "answer": "#id"
+  },
+  {
+    "id": 168,
+    "topic": "id Attribute, class Attribute",
+    "question": "In HTML, the \"class\" attribute is used to:",
+    "options": [
+      "Apply multiple styles to an element",
+      "Group similar elements together",
+      "Identify a unique element on the page",
+      "Define the box model of an element"
+    ],
+    "answer": "Group similar elements together"
+  },
+  {
+    "id": 169,
+    "topic": "id Attribute, class Attribute",
+    "question": "How is the \"class\" attribute represented in CSS selectors?",
+    "options": [
+      ".class",
+      "#class",
+      "<class>",
+      "@class"
+    ],
+    "answer": ".class"
+  },
+  {
+    "id": 170,
+    "topic": "id Attribute, class Attribute",
+    "question": "Can an HTML element have both \"id\" and \"class\" attributes?",
+    "options": [
+      "No, an element can only have either \"id\" or \"class\" but not both.",
+      "Yes, an element can have multiple \"id\" and \"class\" attributes.",
+      "Yes, an element can have both \"id\" and \"class\" attributes at the same time.",
+      "No, an element cannot have \"id\" and \"class\" attributes."
+    ],
+    "answer": "Yes, an element can have both \"id\" and \"class\" attributes at the same time."
+  },
+  {
+    "id": 171,
+    "topic": "id Attribute, class Attribute",
+    "question": "How is the \"id\" attribute different from the \"class\" attribute in HTML?",
+    "options": [
+      "The \"id\" attribute is used to group elements, while the \"class\" attribute is used to identify unique elements.",
+      "The \"id\" attribute can only be used once per page, while the \"class\" attribute can be used multiple times.",
+      "The \"id\" attribute is represented by a period (.), while the \"class\" attribute is represented by a pound (#) symbol.",
+      "The \"id\" attribute is only used for styling, while the \"class\" attribute is used for JavaScript functions."
+    ],
+    "answer": "The \"id\" attribute can only be used once per page, while the \"class\" attribute can be used multiple times."
+  },
+  {
+    "id": 172,
+    "topic": "id Attribute, class Attribute",
+    "question": "multiple times. How can you select an element with the \"id\" attribute of \"header\" in CSS?",
+    "options": [
+      ".header { /* CSS styles here / }",
+      "#header { / CSS styles here / }",
+      "<header> { / CSS styles here / }",
+      "<div id=\"header\"> { / CSS styles here */ }"
+    ],
+    "answer": "#header { / CSS styles here / }"
+  },
+  {
+    "id": 173,
+    "topic": "id Attribute, class Attribute",
+    "question": "How can you select all elements with the \"class\" attribute of \"highlight\" in CSS?",
+    "options": [
+      ".highlight { /* CSS styles here / }",
+      "#highlight { / CSS styles here / }",
+      "<highlight> { / CSS styles here / }",
+      "<div class=\"highlight\"> { / CSS styles here */ }"
+    ],
+    "answer": ".highlight { /* CSS styles here / }"
+  },
+  {
+    "id": 174,
+    "topic": "id Attribute, class Attribute",
+    "question": "What is the main purpose of using the \"id\" and \"class\" attributes in HTML and CSS?",
+    "options": [
+      "To apply unique styles to specific elements (id) and group similar elements together (class)",
+      "To create interactive elements on the web page",
+      "To define the box model of elements",
+      "To add background colors to the page"
+    ],
+    "answer": "To apply unique styles to specific elements (id) and group similar elements together (class)"
+  },
+  {
+    "id": 175,
+    "topic": "id Attribute, class Attribute",
+    "question": "In CSS, if a style is applied to both an element's \"id\" and \"class,\" which one takes precedence?",
+    "options": [
+      "The \"id\" takes precedence over the \"class.\"",
+      "The \"class\" takes precedence over the \"id.\"",
+      "Both styles are applied.",
+      "The style defined last takes precedence."
+    ],
+    "answer": "The \"id\" takes precedence over the \"class.\""
+  },
+  {
+    "id": 176,
+    "topic": "HTML Style Tags",
+    "question": "The <style> tag is used to:",
+    "options": [
+      "Add JavaScript code to the HTML document",
+      "Add CSS code directly within the HTML document",
+      "Define the structure and layout of the web page",
+      "Embed images in the HTML document"
+    ],
+    "answer": "Add CSS code directly within the HTML document"
+  },
+  {
+    "id": 177,
+    "topic": "HTML Style Tags",
+    "question": "Where is the <style> tag typically placed in an HTML document?",
+    "options": [
+      "Before the <head> tag",
+      "After the <head> tag and before the <body> tag",
+      "After the <body> tag",
+      "Inside the <head> tag"
+    ],
+    "answer": "Inside the <head> tag"
+  },
+  {
+    "id": 178,
+    "topic": "HTML Style Tags",
+    "question": "How can you use the <style> tag to apply CSS styles to a specific HTML element?",
+    "options": [
+      "<style> .element { /* CSS styles here / } </style>",
+      "<style> #element { / CSS styles here / } </style>",
+      "<style> <element> { / CSS styles here / } </style>",
+      "<style> <.element> { / CSS styles here */ } </style>"
+    ],
+    "answer": "<style> <element> { / CSS styles here / } </style>"
+  },
+  {
+    "id": 179,
+    "topic": "HTML Style Tags",
+    "question": "How does using the <style> tag differ from using an external CSS file?",
+    "options": [
+      "The <style> tag allows for more advanced CSS features.",
+      "The <style> tag is used for internal CSS, while external CSS files are linked to the HTML document.",
+      "The <style> tag is faster and improves web page loading times.",
+      "Using the <style> tag is considered bad practice."
+    ],
+    "answer": "The <style> tag is used for internal CSS, while external CSS files are linked to the HTML document."
+  },
+  {
+    "id": 180,
+    "topic": "HTML Style Tags",
+    "question": "document. What is the main disadvantage of using the <style> tag for CSS styles?",
+    "options": [
+      "It increases the file size of the HTML document.",
+      "It makes the CSS code harder to manage and maintain.",
+      "It can cause conflicts with external CSS styles.",
+      "It cannot be used to style multiple HTML documents at once."
+    ],
+    "answer": "It can cause conflicts with external CSS styles."
+  },
+  {
+    "id": 181,
+    "topic": "HTML Style Tags",
+    "question": "How can you apply CSS styles to multiple HTML elements using the <style> tag?",
+    "options": [
+      "By adding a separate <style> tag for each element",
+      "By using multiple <style> tags within the <head> section",
+      "By separating the styles with commas inside the <style> tag",
+      "By using the \"class\" attribute with the <style> tag"
+    ],
+    "answer": "By separating the styles with commas inside the <style> tag"
+  },
+  {
+    "id": 182,
+    "topic": "HTML Style Tags",
+    "question": "What is the correct syntax to define a CSS rule for all <p> elements inside a <div> element using the <style> tag?",
+    "options": [
+      "div p { /* CSS styles here / }",
+      "div > p { / CSS styles here / }",
+      "div + p { / CSS styles here / }",
+      "div ~ p { / CSS styles here */ }"
+    ],
+    "answer": "div p { /* CSS styles here / }"
+  },
+  {
+    "id": 183,
+    "topic": "HTML Style Tags",
+    "question": "What happens if the same CSS rule is defined multiple times inside the <style> tag?",
+    "options": [
+      "The browser ignores all but the last instance of the rule.",
+      "The browser averages the values of the rules.",
+      "The browser combines all the rules into one.",
+      "The browser displays an error."
+    ],
+    "answer": "The browser ignores all but the last instance of the rule."
+  },
+  {
+    "id": 184,
+    "topic": "HTML Style Tags",
+    "question": "How can you apply CSS styles to all <a> elements that are children of a <div> element using the <style> tag?",
+    "options": [
+      "div a { /* CSS styles here / }",
+      "div > a { / CSS styles here / }",
+      "div + a { / CSS styles here / }",
+      "div ~ a { / CSS styles here */ }"
+    ],
+    "answer": "div a { /* CSS styles here / }"
+  },
+  {
+    "id": 185,
+    "topic": "HTML Style Tags",
+    "question": "When using the <style> tag, how can you comment out a block of CSS code?",
+    "options": [
+      "/* This is a comment */",
+      "// This is a comment //",
+      "<!-- This is a comment -->",
+      "# This is a comment #"
+    ],
+    "answer": "/* This is a comment */"
+  },
+  {
+    "id": 186,
+    "topic": "Linking a style to an HTML document",
+    "question": "What is the purpose of linking an external CSS file to an HTML document?",
+    "options": [
+      "To add JavaScript code to the HTML document",
+      "To add CSS code directly within the HTML document",
+      "To apply CSS styles to multiple HTML documents at once",
+      "To define the structure and layout of the web page"
+    ],
+    "answer": "To apply CSS styles to multiple HTML documents at once"
+  },
+  {
+    "id": 187,
+    "topic": "Linking a style to an HTML document",
+    "question": "How is an external CSS file typically named?",
+    "options": [
+      "styles.js",
+      "styles.html",
+      "styles.css",
+      "styles.txt"
+    ],
+    "answer": "styles.css"
+  },
+  {
+    "id": 188,
+    "topic": "Linking a style to an HTML document",
+    "question": "What is the correct syntax to link an external CSS file to an HTML document?",
+    "options": [
+      "<link href=\"styles.css\" type=\"text/css\" rel=\"stylesheet\">",
+      "<css src=\"styles.css\"></css>",
+      "<style src=\"styles.css\"></style>",
+      "<css file=\"styles.css\"></css>"
+    ],
+    "answer": "<link href=\"styles.css\" type=\"text/css\" rel=\"stylesheet\">"
+  },
+  {
+    "id": 189,
+    "topic": "Linking a style to an HTML document",
+    "question": "Where is the <link> tag for the external CSS file typically placed in an HTML document?",
+    "options": [
+      "Before the <head> tag",
+      "After the <head> tag and before the <body> tag",
+      "After the <body> tag",
+      "Inside the <head> tag"
+    ],
+    "answer": "Inside the <head> tag"
+  },
+  {
+    "id": 190,
+    "topic": "Linking a style to an HTML document",
+    "question": "Can an HTML document link to multiple external CSS files?",
+    "options": [
+      "No, an HTML document can only link to one external CSS file.",
+      "Yes, but only if they are in different directories.",
+      "Yes, an HTML document can link to multiple external CSS files.",
+      "Yes, but only if they have the same file name."
+    ],
+    "answer": "Yes, an HTML document can link to multiple external CSS files."
+  },
+  {
+    "id": 191,
+    "topic": "Linking a style to an HTML document",
+    "question": "How do you create a link to an external CSS file located in the \"css\" folder within the root directory of the website?",
+    "options": [
+      "<link href=\"css/styles.css\" type=\"text/css\" rel=\"stylesheet\">",
+      "<link href=\"styles.css\" type=\"text/css\" rel=\"stylesheet\">",
+      "<link href=\"../css/styles.css\" type=\"text/css\" rel=\"stylesheet\">",
+      "<link href=\"css/styles\" type=\"text/css\" rel=\"stylesheet\">"
+    ],
+    "answer": "<link href=\"css/styles.css\" type=\"text/css\" rel=\"stylesheet\">"
+  },
+  {
+    "id": 192,
+    "topic": "Linking a style to an HTML document",
+    "question": "What happens if the <link> tag for the external CSS file is placed after the <body> tag?",
+    "options": [
+      "The CSS styles will not be applied to the HTML document.",
+      "The browser will display an error.",
+      "The CSS styles will be applied, but it is not considered good practice.",
+      "The CSS styles will be applied, but only to specific elements."
+    ],
+    "answer": "The CSS styles will not be applied to the HTML document."
+  },
+  {
+    "id": 193,
+    "topic": "Linking a style to an HTML document",
+    "question": "What is the main advantage of using an external CSS file?",
+    "options": [
+      "It allows for more advanced CSS features not available in the <style> tag.",
+      "It makes the HTML document smaller and improves loading times.",
+      "It makes the CSS code easier to manage and maintain.",
+      "It allows for more flexibility in positioning HTML elements."
+    ],
+    "answer": "It makes the CSS code easier to manage and maintain."
+  },
+  {
+    "id": 194,
+    "topic": "Linking a style to an HTML document",
+    "question": "How can you create a link to an external CSS file that is optimized for printing?",
+    "options": [
+      "<link href=\"print.css\" type=\"text/css\" rel=\"print\">",
+      "<link href=\"styles.css\" type=\"text/css\" rel=\"print\">",
+      "<link href=\"print.css\" type=\"text/css\" rel=\"stylesheet\">",
+      "<link href=\"styles.css\" type=\"text/css\" rel=\"stylesheet\" media=\"print\">"
+    ],
+    "answer": "<link href=\"styles.css\" type=\"text/css\" rel=\"stylesheet\" media=\"print\">"
+  },
+  {
+    "id": 195,
+    "topic": "Linking a style to an HTML document",
+    "question": "How does linking an external CSS file improve website performance?",
+    "options": [
+      "It allows for more advanced CSS features.",
+      "It reduces the need for the <style> tag in the HTML document.",
+      "It makes the CSS code easier to manage and maintain.",
+      "It allows the CSS file to be cached, reducing loading times for subsequent pages."
+    ],
+    "answer": "It allows the CSS file to be cached, reducing loading times for subsequent pages."
+  },
+  {
+    "id": 196,
+    "topic": "Introduction to JavaScript",
+    "question": "JavaScript is a:",
+    "options": [
+      "Markup language",
+      "Programming language",
+      "Styling language",
+      "Database management system"
+    ],
+    "answer": "Programming language"
+  },
+  {
+    "id": 197,
+    "topic": "Introduction to JavaScript",
+    "question": "Who developed JavaScript?",
+    "options": [
+      "Microsoft",
+      "Google",
+      "Oracle",
+      "Netscape"
+    ],
+    "answer": "Netscape"
+  },
+  {
+    "id": 198,
+    "topic": "Introduction to JavaScript",
+    "question": "JavaScript is often used for:",
+    "options": [
+      "Creating structured documents",
+      "Adding styles to web pages",
+      "Adding interactivity to web pages",
+      "Managing server-side databases"
+    ],
+    "answer": "Adding interactivity to web pages"
+  },
+  {
+    "id": 199,
+    "topic": "Introduction to JavaScript",
+    "question": "Which of the following is NOT a valid data type in JavaScript?",
+    "options": [
+      "Number",
+      "String",
+      "Boolean",
+      "Character"
+    ],
+    "answer": "Character"
+  },
+  {
+    "id": 200,
+    "topic": "Introduction to JavaScript",
+    "question": "JavaScript code is typically written inside:",
+    "options": [
+      "<script> tags",
+      "<style> tags",
+      "<js> tags",
+      "<code> tags"
+    ],
+    "answer": "<script> tags"
+  },
+  {
+    "id": 201,
+    "topic": "Variables in JavaScript",
+    "question": "How do you declare a variable in JavaScript?",
+    "options": [
+      "var variableName;",
+      "variableName = value;",
+      "int variableName;",
+      "declare variableName;"
+    ],
+    "answer": "var variableName;"
+  },
+  {
+    "id": 202,
+    "topic": "Variables in JavaScript",
+    "question": "What is the correct way to initialize a variable with a value?",
+    "options": [
+      "variableName value;",
+      "variableName = value;",
+      "value variableName;",
+      "initialize variableName with value;"
+    ],
+    "answer": "variableName = value;"
+  },
+  {
+    "id": 203,
+    "topic": "Variables in JavaScript",
+    "question": "JavaScript is a dynamically-typed language, which means:",
+    "options": [
+      "Variables must have a data type specified at declaration.",
+      "Variables can change their data type during execution.",
+      "Variables cannot be reassigned once a value is assigned.",
+      "Variables must be explicitly converted to other data types."
+    ],
+    "answer": "Variables can change their data type during execution."
+  },
+  {
+    "id": 204,
+    "topic": "Variables in JavaScript",
+    "question": "What is the scope of a variable declared using the \"let\" keyword?",
+    "options": [
+      "Global scope",
+      "Local scope",
+      "Block scope",
+      "Function scope"
+    ],
+    "answer": "Block scope"
+  },
+  {
+    "id": 205,
+    "topic": "Variables in JavaScript",
+    "question": "Which keyword is used to declare a constant variable in JavaScript?",
+    "options": [
+      "var",
+      "let",
+      "const",
+      "constant"
+    ],
+    "answer": "const"
+  },
+  {
+    "id": 206,
+    "topic": "Statements, Operators, Comments, Expressions, and Control Structures",
+    "question": "In JavaScript, how do you write a single-line comment?",
+    "options": [
+      "/* This is a comment */",
+      "// This is a comment",
+      "<!-- This is a comment -->",
+      "' This is a comment '"
+    ],
+    "answer": "// This is a comment"
+  },
+  {
+    "id": 207,
+    "topic": "Statements, Operators, Comments, Expressions, and Control Structures",
+    "question": "How do you write a multi-line comment in JavaScript?",
+    "options": [
+      "/* This is a comment */",
+      "// This is a comment //",
+      "<!-- This is a comment -->",
+      "' This is a comment '"
+    ],
+    "answer": "/* This is a comment */"
+  },
+  {
+    "id": 208,
+    "topic": "Statements, Operators, Comments, Expressions, and Control Structures",
+    "question": "What is the purpose of a semicolon (;) in JavaScript?",
+    "options": [
+      "To indicate the end of a statement",
+      "To concatenate strings",
+      "To define a function",
+      "To declare a variable"
+    ],
+    "answer": "To indicate the end of a statement"
+  },
+  {
+    "id": 209,
+    "topic": "Statements, Operators, Comments, Expressions, and Control Structures",
+    "question": "Which of the following is NOT a valid JavaScript operator?",
+    "options": [
+      "+",
+      "~",
+      "==",
+      "&"
+    ],
+    "answer": "&"
+  },
+  {
+    "id": 210,
+    "topic": "Statements, Operators, Comments, Expressions, and Control Structures",
+    "question": "What is the correct syntax for an if statement in JavaScript?",
+    "options": [
+      "if (condition) { // code block }",
+      "if { (condition) // code block }",
+      "{ // code block } if (condition)",
+      "{ if (condition) // code block }"
+    ],
+    "answer": "if (condition) { // code block }"
+  },
+  {
+    "id": 211,
+    "topic": "JavaScript Scopes",
+    "question": "What is the scope of a variable declared using the \"var\" keyword?",
+    "options": [
+      "Global scope",
+      "Local scope",
+      "Block scope",
+      "Function scope"
+    ],
+    "answer": "Function scope"
+  },
+  {
+    "id": 212,
+    "topic": "JavaScript Scopes",
+    "question": "What is the scope of a variable declared using the \"let\" keyword?",
+    "options": [
+      "Global scope",
+      "Local scope",
+      "Block scope",
+      "Function scope"
+    ],
+    "answer": "Block scope"
+  },
+  {
+    "id": 213,
+    "topic": "JavaScript Scopes",
+    "question": "Which type of scope allows a variable to be accessed from anywhere in the code?",
+    "options": [
+      "Local scope",
+      "Block scope",
+      "Global scope",
+      "Function scope"
+    ],
+    "answer": "Global scope"
+  },
+  {
+    "id": 214,
+    "topic": "JavaScript Scopes",
+    "question": "What happens if you declare a variable with the same name inside a block with \"let\" that already exists in the outer scope?",
+    "options": [
+      "The variable in the outer scope is overwritten by the inner variable.",
+      "An error is thrown, and the code stops executing.",
+      "Both variables can be used independently without any conflicts.",
+      "The variable in the outer scope becomes inaccessible."
+    ],
+    "answer": "The variable in the outer scope is overwritten by the inner variable."
+  },
+  {
+    "id": 215,
+    "topic": "JavaScript Scopes",
+    "question": "What is the purpose of using different variable scopes in JavaScript?",
+    "options": [
+      "To improve code performance and efficiency",
+      "To limit the accessibility of variables to specific parts of the code",
+      "To ensure all variables have unique names",
+      "To enable variables to change their data type during execution"
+    ],
+    "answer": "To limit the accessibility of variables to specific parts of the code"
+  },
+  {
+    "id": 216,
+    "topic": "Strings, String Methods",
+    "question": "What is a string in JavaScript?",
+    "options": [
+      "A type of function",
+      "A sequence of characters",
+      "A mathematical operation",
+      "A type of array"
+    ],
+    "answer": "A sequence of characters"
+  },
+  {
+    "id": 217,
+    "topic": "Strings, String Methods",
+    "question": "How do you create a string in JavaScript?",
+    "options": [
+      "\"This is a string\"",
+      "'This is a string'",
+      "This is a string",
+      "(This is a string)"
+    ],
+    "answer": "\"This is a string\""
+  },
+  {
+    "id": 218,
+    "topic": "Strings, String Methods",
+    "question": "What is the correct way to find the length of a string in JavaScript?",
+    "options": [
+      "string.length()",
+      "length(string)",
+      "string.length",
+      "lengthOf(string)"
+    ],
+    "answer": "string.length"
+  },
+  {
+    "id": 219,
+    "topic": "Strings, String Methods",
+    "question": "Which string method is used to convert a string to uppercase letters?",
+    "options": [
+      "toUpper()",
+      "toUpperCase()",
+      "convertUpper()",
+      "convertCase(\"uppercase\")"
+    ],
+    "answer": "toUpperCase()"
+  },
+  {
+    "id": 220,
+    "topic": "Strings, String Methods",
+    "question": "How can you concatenate two strings in JavaScript?",
+    "options": [
+      "string1 + string2",
+      "concat(string1, string2)",
+      "string1.concat(string2)",
+      "join(string1, string2)"
+    ],
+    "answer": "string1 + string2"
+  },
+  {
+    "id": 221,
+    "topic": "Numbers, Number Methods",
+    "question": "In JavaScript, what is the data type used for numeric values?",
+    "options": [
+      "number",
+      "int",
+      "float",
+      "numeric"
+    ],
+    "answer": "number"
+  },
+  {
+    "id": 222,
+    "topic": "Numbers, Number Methods",
+    "question": "How do you write a numeric value in JavaScript?",
+    "options": [
+      "\"42\"",
+      "'42'",
+      "42",
+      "numeric(42)"
+    ],
+    "answer": "42"
+  },
+  {
+    "id": 223,
+    "topic": "Numbers, Number Methods",
+    "question": "Which of the following is NOT a valid number in JavaScript?",
+    "options": [
+      "3.14",
+      "0",
+      "-123",
+      "\"42\""
+    ],
+    "answer": "\"42\""
+  },
+  {
+    "id": 224,
+    "topic": "Numbers, Number Methods",
+    "question": "What is the purpose of the \"isNaN()\" function in JavaScript?",
+    "options": [
+      "To check if a number is positive",
+      "To check if a number is an integer",
+      "To check if a number is negative",
+      "To check if a value is not a number"
+    ],
+    "answer": "To check if a value is not a number"
+  },
+  {
+    "id": 225,
+    "topic": "Numbers, Number Methods",
+    "question": "How can you round a number to the nearest integer in JavaScript?",
+    "options": [
+      "round(number)",
+      "Math.round(number)",
+      "Math.ceil(number)",
+      "Math.floor(number)"
+    ],
+    "answer": "Math.round(number)"
+  },
+  {
+    "id": 226,
+    "topic": "Boolean Values",
+    "question": "What are boolean values used for in JavaScript?",
+    "options": [
+      "To represent strings",
+      "To perform mathematical operations",
+      "To represent true or false values",
+      "To store numeric values"
+    ],
+    "answer": "To represent true or false values"
+  },
+  {
+    "id": 227,
+    "topic": "Boolean Values",
+    "question": "What are the two possible boolean values in JavaScript?",
+    "options": [
+      "0 and 1",
+      "yes and no",
+      "true and false",
+      "on and off"
+    ],
+    "answer": "true and false"
+  },
+  {
+    "id": 228,
+    "topic": "Boolean Values",
+    "question": "Which comparison operator is used to check if two values are equal in JavaScript?",
+    "options": [
+      "==",
+      "=",
+      "===",
+      "<>"
+    ],
+    "answer": "=="
+  },
+  {
+    "id": 229,
+    "topic": "Boolean Values",
+    "question": "What will be the result of the following expression: 5 > 3?",
+    "options": [
+      "true",
+      "false",
+      "5",
+      "3"
+    ],
+    "answer": "true"
+  },
+  {
+    "id": 230,
+    "topic": "Boolean Values",
+    "question": "How can you negate a boolean value in JavaScript?",
+    "options": [
+      "!value",
+      "not(value)",
+      "(value)",
+      "not value"
+    ],
+    "answer": "!value"
+  },
+  {
+    "id": 231,
+    "topic": "Dates, Date Formats, Date Methods",
+    "question": "How do you create a new Date object in JavaScript?",
+    "options": [
+      "new Date()",
+      "Date()",
+      "create Date()",
+      "currentDate()"
+    ],
+    "answer": "new Date()"
+  },
+  {
+    "id": 232,
+    "topic": "Dates, Date Formats, Date Methods",
+    "question": "What is the purpose of the \"getMonth()\" method in JavaScript?",
+    "options": [
+      "To get the day of the week",
+      "To get the month as a number (0-11)",
+      "To get the year",
+      "To get the day of the month"
+    ],
+    "answer": "To get the month as a number (0-11)"
+  },
+  {
+    "id": 233,
+    "topic": "Dates, Date Formats, Date Methods",
+    "question": "What will be the result of the following code? javascript Copy code var currentDate = new Date(); var year = currentDate.getFullYear(); console.log(year);",
+    "options": [
+      "The current day of the week",
+      "The current month as a number (0-11)",
+      "The current year (e.g., 2023)",
+      "The current day of the month"
+    ],
+    "answer": "The current year (e.g., 2023)"
+  },
+  {
+    "id": 234,
+    "topic": "Dates, Date Formats, Date Methods",
+    "question": "How can you set the year of a Date object in JavaScript?",
+    "options": [
+      "date.setYear(2023);",
+      "date.setFullYear(2023);",
+      "date.setMonth(2023);",
+      "date.setDay(2023);"
+    ],
+    "answer": "date.setFullYear(2023);"
+  },
+  {
+    "id": 235,
+    "topic": "Dates, Date Formats, Date Methods",
+    "question": "What is the purpose of the \"toDateString()\" method in JavaScript?",
+    "options": [
+      "To convert a date to a string in the format \"MM/DD/YYYY\"",
+      "To convert a date to a string in the format \"YYYY-MM-DD\"",
+      "To convert a date to a string in the format \"Day, Month DD, YYYY\"",
+      "To convert a date to a string in the format \"DD Month, YYYY\""
+    ],
+    "answer": "To convert a date to a string in the format \"Day, Month DD, YYYY\""
+  },
+  {
+    "id": 236,
+    "topic": "Arrays, Array Methods",
+    "question": "What is an array in JavaScript?",
+    "options": [
+      "A collection of objects",
+      "A collection of functions",
+      "A collection of strings",
+      "A collection of values (of any data type)"
+    ],
+    "answer": "A collection of values (of any data type)"
+  },
+  {
+    "id": 237,
+    "topic": "Arrays, Array Methods",
+    "question": "How do you create an array in JavaScript?",
+    "options": [
+      "[1, 2, 3]",
+      "array(1, 2, 3)",
+      "new Array(1, 2, 3)",
+      "array = 1, 2, 3"
+    ],
+    "answer": "[1, 2, 3]"
+  },
+  {
+    "id": 238,
+    "topic": "Arrays, Array Methods",
+    "question": "How can you access the value at index 2 in an array named \"myArray\"?",
+    "options": [
+      "myArray.get(2)",
+      "myArray[2]",
+      "myArray.at(2)",
+      "myArray.value(2)"
+    ],
+    "answer": "myArray[2]"
+  },
+  {
+    "id": 239,
+    "topic": "Arrays, Array Methods",
+    "question": "What is the purpose of the \"push()\" method in JavaScript arrays?",
+    "options": [
+      "To add a new element to the end of the array",
+      "To remove the last element from the array",
+      "To reverse the order of elements in the array",
+      "To sort the elements in the array"
+    ],
+    "answer": "To add a new element to the end of the array"
+  },
+  {
+    "id": 240,
+    "topic": "Arrays, Array Methods",
+    "question": "How do you find the number of elements in an array named \"myArray\"?",
+    "options": [
+      "myArray.length()",
+      "length(myArray)",
+      "myArray.length",
+      "count(myArray)"
+    ],
+    "answer": "myArray.length"
+  },
+  {
+    "id": 241,
+    "topic": "Objects, Object Definitions, Object Properties, Object Methods, Object",
+    "question": "Prototypes What is an object in JavaScript?",
+    "options": [
+      "A collection of values",
+      "A collection of functions",
+      "A collection of properties and methods",
+      "A collection of arrays"
+    ],
+    "answer": "A collection of properties and methods"
+  },
+  {
+    "id": 242,
+    "topic": "Objects, Object Definitions, Object Properties, Object Methods, Object",
+    "question": "How do you create an object in JavaScript using object literal notation?",
+    "options": [
+      "object { property1: value1, property2: value2 }",
+      "{ property1: value1, property2: value2 }",
+      "new Object() { property1: value1, property2: value2 }",
+      "Object.create() { property1: value1, property2: value2 }"
+    ],
+    "answer": "{ property1: value1, property2: value2 }"
+  },
+  {
+    "id": 243,
+    "topic": "Objects, Object Definitions, Object Properties, Object Methods, Object",
+    "question": "How do you access the value of a property named \"name\" in an object named \"person\"?",
+    "options": [
+      "person.getName()",
+      "person[name]",
+      "person.name()",
+      "person.name"
+    ],
+    "answer": "person.name"
+  },
+  {
+    "id": 244,
+    "topic": "Objects, Object Definitions, Object Properties, Object Methods, Object",
+    "question": "What is a method in the context of objects in JavaScript?",
+    "options": [
+      "A property that stores a function",
+      "A collection of properties and values",
+      "A data type in JavaScript",
+      "A property that stores a string"
+    ],
+    "answer": "A property that stores a function"
+  },
+  {
+    "id": 245,
+    "topic": "Objects, Object Definitions, Object Properties, Object Methods, Object",
+    "question": "How can you add a new method named \"sayHello\" to an existing object named \"user\"?",
+    "options": [
+      "user.sayHello() { /* code here / }",
+      "user.sayHello = function() { / code here / }",
+      "user = function() { / code here / }",
+      "sayHello(user) { / code here */ }"
+    ],
+    "answer": "user.sayHello = function() { / code here / }"
+  },
+  {
+    "id": 246,
+    "topic": "Functions, Function Definitions, Function Parameters, Function Invocation, Function",
+    "question": "Closures What is a function in JavaScript?",
+    "options": [
+      "A data type that stores values",
+      "A collection of properties and methods",
+      "A collection of objects",
+      "A block of code that can be invoked and perform a specific task"
+    ],
+    "answer": "A block of code that can be invoked and perform a specific task"
+  },
+  {
+    "id": 247,
+    "topic": "Functions, Function Definitions, Function Parameters, Function Invocation, Function",
+    "question": "How do you define a function in JavaScript using function declaration?",
+    "options": [
+      "function myFunction() { /* code here / }",
+      "function = myFunction() { / code here / }",
+      "function: myFunction() { / code here / }",
+      "function myFunction { / code here */ }"
+    ],
+    "answer": "function myFunction() { /* code here / }"
+  },
+  {
+    "id": 248,
+    "topic": "Functions, Function Definitions, Function Parameters, Function Invocation, Function",
+    "question": "What are parameters in the context of functions?",
+    "options": [
+      "Functions that are nested within another function",
+      "The values returned by the function",
+      "The values passed to the function when it is invoked",
+      "The variables declared inside a function"
+    ],
+    "answer": "The values passed to the function when it is invoked"
+  },
+  {
+    "id": 249,
+    "topic": "Functions, Function Definitions, Function Parameters, Function Invocation, Function",
+    "question": "How can you invoke (call) a function named \"myFunction\" in JavaScript?",
+    "options": [
+      "call myFunction()",
+      "myFunction.call()",
+      "myFunction()",
+      "invoke myFunction()"
+    ],
+    "answer": "myFunction()"
+  },
+  {
+    "id": 250,
+    "topic": "Functions, Function Definitions, Function Parameters, Function Invocation, Function",
+    "question": "What is a function closure in JavaScript?",
+    "options": [
+      "A function that has no return value",
+      "A function that is not accessible from outside its scope",
+      "A function that returns another function",
+      "A function that cannot take any arguments"
+    ],
+    "answer": "A function that returns another function"
+  },
+  {
+    "id": 251,
+    "topic": "Introduction to Object Oriented Programming in JS",
+    "question": "Object-oriented programming (OOP) in JavaScript involves:",
+    "options": [
+      "Working with arrays and loops",
+      "Creating and manipulating objects with properties and methods",
+      "Defining data types for variables",
+      "Embedding multimedia content in web pages"
+    ],
+    "answer": "Creating and manipulating objects with properties and methods"
+  },
+  {
+    "id": 252,
+    "topic": "Introduction to Object Oriented Programming in JS",
+    "question": "In OOP, a method is:",
+    "options": [
+      "A special type of variable used for data storage",
+      "A function that belongs to an object and can be invoked to perform specific actions",
+      "A conditional statement used for making decisions",
+      "A loop used to iterate over an array"
+    ],
+    "answer": "A function that belongs to an object and can be invoked to perform specific actions"
+  },
+  {
+    "id": 253,
+    "topic": "Introduction to Object Oriented Programming in JS",
+    "question": "What is a constructor in JavaScript?",
+    "options": [
+      "A method used to update object properties",
+      "A special type of function used to create and initialize objects",
+      "A built-in JavaScript method for string manipulation",
+      "A function that performs arithmetic operations"
+    ],
+    "answer": "A special type of function used to create and initialize objects"
+  },
+  {
+    "id": 254,
+    "topic": "Introduction to Object Oriented Programming in JS",
+    "question": "Inheritance in JavaScript allows:",
+    "options": [
+      "Objects to inherit properties and methods from other objects",
+      "Objects to share the same name",
+      "Functions to inherit data from arrays",
+      "Objects to copy each other's values"
+    ],
+    "answer": "Objects to inherit properties and methods from other objects"
+  },
+  {
+    "id": 255,
+    "topic": "Introduction to Object Oriented Programming in JS",
+    "question": "Encapsulation in OOP means:",
+    "options": [
+      "Storing data in global variables for easy access",
+      "Keeping the implementation details of an object hidden and only exposing the necessary interfaces",
+      "Creating complex data structures using arrays and loops",
+      "Grouping related objects together"
+    ],
+    "answer": "Keeping the implementation details of an object hidden and only exposing the necessary interfaces"
+  },
+  {
+    "id": 256,
+    "topic": "Document Object Model (DOM), Object Hierarchy in JavaScript",
+    "question": "interfaces What does DOM stand for in the context of web development?",
+    "options": [
+      "Document Object Model",
+      "Data Object Model",
+      "Document Orientation Model",
+      "Document Option Method"
+    ],
+    "answer": "Document Object Model"
+  },
+  {
+    "id": 257,
+    "topic": "Document Object Model (DOM), Object Hierarchy in JavaScript",
+    "question": "The DOM represents an HTML document as a:",
+    "options": [
+      "Text file",
+      "Tree-like structure of objects",
+      "Linear sequence of characters",
+      "Series of function calls"
+    ],
+    "answer": "Tree-like structure of objects"
+  },
+  {
+    "id": 258,
+    "topic": "Document Object Model (DOM), Object Hierarchy in JavaScript",
+    "question": "Which element is the root of the DOM tree?",
+    "options": [
+      "<html>",
+      "<head>",
+      "<body>",
+      "<document>"
+    ],
+    "answer": "<html>"
+  },
+  {
+    "id": 259,
+    "topic": "Document Object Model (DOM), Object Hierarchy in JavaScript",
+    "question": "In the DOM hierarchy, parent nodes have:",
+    "options": [
+      "Lower depth than their child nodes",
+      "Higher depth than their child nodes",
+      "The same depth as their child nodes",
+      "No relationship with their child nodes"
+    ],
+    "answer": "Higher depth than their child nodes"
+  },
+  {
+    "id": 260,
+    "topic": "Document Object Model (DOM), Object Hierarchy in JavaScript",
+    "question": "Which DOM method is used to access an element with a specific ID?",
+    "options": [
+      "getElementById()",
+      "getElementByClassName()",
+      "getElementByName()",
+      "getElementByTagName()"
+    ],
+    "answer": "getElementById()"
+  },
+  {
+    "id": 261,
+    "topic": "HTML DOM, DOM Elements, DOM Events",
+    "question": "In the DOM, HTML elements are represented as:",
+    "options": [
+      "Strings",
+      "Objects",
+      "Arrays",
+      "Numbers"
+    ],
+    "answer": "Objects"
+  },
+  {
+    "id": 262,
+    "topic": "HTML DOM, DOM Elements, DOM Events",
+    "question": "How can you access the first <p> element in the DOM using JavaScript?",
+    "options": [
+      "document.getElementsByTagName(\"p\")[0]",
+      "document.querySelector(\"p\")",
+      "document.getElementById(\"p\")",
+      "document.firstElement(\"p\")"
+    ],
+    "answer": "document.querySelector(\"p\")"
+  },
+  {
+    "id": 263,
+    "topic": "HTML DOM, DOM Elements, DOM Events",
+    "question": "Which DOM property is used to change the text content of an HTML element?",
+    "options": [
+      "innerText",
+      "innerHTML",
+      "textContent",
+      "contentText"
+    ],
+    "answer": "textContent"
+  },
+  {
+    "id": 264,
+    "topic": "HTML DOM, DOM Elements, DOM Events",
+    "question": "DOM events are used to:",
+    "options": [
+      "Modify the structure of the HTML document",
+      "Handle user interactions and trigger actions",
+      "Store data on the server",
+      "Define the layout and styles of web pages"
+    ],
+    "answer": "Handle user interactions and trigger actions"
+  },
+  {
+    "id": 265,
+    "topic": "HTML DOM, DOM Elements, DOM Events",
+    "question": "How can you add an event listener to a button element with the ID \"myButton\" that executes a function called \"handleClick\" when the button is clicked?",
+    "options": [
+      "document.getElementById(\"myButton\").addEventListener(\"click\", handleClick)",
+      "document.querySelector(\"myButton\").onclick = handleClick",
+      "myButton.addEventListener(\"click\", handleClick)",
+      "document.addEventListener(\"myButton\", \"click\", handleClick)"
+    ],
+    "answer": "document.getElementById(\"myButton\").addEventListener(\"click\", handleClick)"
+  },
+  {
+    "id": 266,
+    "topic": "DOM Methods, DOM Manipulation",
+    "question": "How can you change the CSS style of an HTML element using JavaScript?",
+    "options": [
+      "Changing the \"style\" attribute directly with a string",
+      "Accessing the \"style\" property and modifying its properties",
+      "Creating a new CSS file and linking it to the HTML document",
+      "Using the \"changeStyle()\" method provided by the DOM"
+    ],
+    "answer": "Accessing the \"style\" property and modifying its properties"
+  },
+  {
+    "id": 267,
+    "topic": "DOM Methods, DOM Manipulation",
+    "question": "The \"createElement()\" method is used to:",
+    "options": [
+      "Modify an existing element in the DOM",
+      "Create a new element node in the DOM",
+      "Remove an element from the DOM",
+      "Change the size of an element in the DOM"
+    ],
+    "answer": "Create a new element node in the DOM"
+  },
+  {
+    "id": 268,
+    "topic": "DOM Methods, DOM Manipulation",
+    "question": "How can you insert a new element as the last child of a parent element in the DOM?",
+    "options": [
+      "parentElement.insertBefore(newElement, parentElement.firstChild)",
+      "parentElement.insertBefore(newElement, parentElement.lastChild)",
+      "parentElement.appendChild(newElement)",
+      "parentElement.insertAfter(newElement, parentElement.lastChild)"
+    ],
+    "answer": "parentElement.appendChild(newElement)"
+  },
+  {
+    "id": 269,
+    "topic": "DOM Methods, DOM Manipulation",
+    "question": "Which method is used to remove an element from the DOM?",
+    "options": [
+      "removeElement()",
+      "removeChild()",
+      "removeNode()",
+      "remove()"
+    ],
+    "answer": "removeChild()"
+  },
+  {
+    "id": 270,
+    "topic": "DOM Methods, DOM Manipulation",
+    "question": "How do you change the text content of an HTML element with the ID \"myElement\" to \"Hello, World!\"?",
+    "options": [
+      "document.getElementById(\"myElement\").textContent = \"Hello, World!\";",
+      "document.getElementByName(\"myElement\").innerText = \"Hello, World!\";",
+      "document.querySelector(\"#myElement\").textContent = \"Hello, World!\";",
+      "document.getElementById(\"myElement\").innerText = \"Hello, World!\";"
+    ],
+    "answer": "document.getElementById(\"myElement\").textContent = \"Hello, World!\";"
+  },
+  {
+    "id": 271,
+    "topic": "Forms, Forms API, Forms Validation",
+    "question": "The Forms API in JavaScript provides methods and properties for:",
+    "options": [
+      "Manipulating the DOM structure of forms",
+      "Styling form elements with CSS",
+      "Handling form submission and user interactions",
+      "Creating new forms using JavaScript"
+    ],
+    "answer": "Handling form submission and user interactions"
+  },
+  {
+    "id": 272,
+    "topic": "Forms, Forms API, Forms Validation",
+    "question": "How can you access the value entered in a text input element with the ID \"username\" using JavaScript?",
+    "options": [
+      "document.getElementByTagName(\"username\").value",
+      "document.getElementById(\"username\").value",
+      "document.getElementByClassName(\"username\").value",
+      "document.querySelector(\"#username\").value"
+    ],
+    "answer": "document.getElementById(\"username\").value"
+  },
+  {
+    "id": 273,
+    "topic": "Forms, Forms API, Forms Validation",
+    "question": "What is form validation in web development?",
+    "options": [
+      "Ensuring that form elements are displayed correctly on the web page",
+      "Checking if a form has been filled out correctly before submission",
+      "Creating a custom form with unique styles and layouts",
+      "Validating the HTML structure of the form"
+    ],
+    "answer": "Checking if a form has been filled out correctly before submission"
+  },
+  {
+    "id": 274,
+    "topic": "Forms, Forms API, Forms Validation",
+    "question": "How can you prevent a form from being submitted if it does not pass validation?",
+    "options": [
+      "Using the \"preventDefault()\" method in the form's submit event listener",
+      "Setting the \"onSubmit\" attribute of the form to a validation function",
+      "Disabling the submit button until the form is valid",
+      "Removing the \"action\" attribute from the <form> tag"
+    ],
+    "answer": "Using the \"preventDefault()\" method in the form's submit event listener"
+  },
+  {
+    "id": 275,
+    "topic": "Forms, Forms API, Forms Validation",
+    "question": "Which HTML attribute is used to specify the type of input for a text field that only allows numbers?",
+    "options": [
+      "type=\"text\"",
+      "type=\"number\"",
+      "type=\"integer\"",
+      "type=\"numeric\""
+    ],
+    "answer": "type=\"number\""
+  },
+  {
+    "id": 276,
+    "topic": "Regular Expressions",
+    "question": "What are regular expressions in JavaScript?",
+    "options": [
+      "A data type for storing numbers",
+      "A way to format date and time",
+      "Patterns used to match and manipulate strings",
+      "A method for creating loops in JavaScript"
+    ],
+    "answer": "Patterns used to match and manipulate strings"
+  },
+  {
+    "id": 277,
+    "topic": "Regular Expressions",
+    "question": "Which method is used to test a regular expression pattern against a string?",
+    "options": [
+      "match()",
+      "search()",
+      "test()",
+      "regex()"
+    ],
+    "answer": "test()"
+  },
+  {
+    "id": 278,
+    "topic": "Regular Expressions",
+    "question": "What does the \"i\" flag in a regular expression do?",
+    "options": [
+      "Specifies a global search",
+      "Specifies a case-sensitive search",
+      "Specifies a multiline search",
+      "Specifies a case-insensitive search"
+    ],
+    "answer": "Specifies a case-insensitive search"
+  },
+  {
+    "id": 279,
+    "topic": "Regular Expressions",
+    "question": "Which regular expression pattern is used to match any digit character in JavaScript?",
+    "options": [
+      "/\\d/",
+      "/\\w/",
+      "/\\s/",
+      "/\\D/"
+    ],
+    "answer": "/\\d/"
+  },
+  {
+    "id": 280,
+    "topic": "Regular Expressions",
+    "question": "How can you replace all occurrences of the word \"apple\" with \"orange\" in a string using regular expressions?",
+    "options": [
+      "string.replace(\"apple\", \"orange\")",
+      "string.replaceAll(\"apple\", \"orange\")",
+      "string.replace(/apple/g, \"orange\")",
+      "string.replace(/apple/i, \"orange\")"
+    ],
+    "answer": "string.replace(/apple/g, \"orange\")"
+  },
+  {
+    "id": 281,
+    "topic": "Errors, Debugging",
+    "question": "In JavaScript, errors that occur during code execution are called:",
+    "options": [
+      "Syntax errors",
+      "Runtime errors",
+      "Logic errors",
+      "Compile errors"
+    ],
+    "answer": "Runtime errors"
+  },
+  {
+    "id": 282,
+    "topic": "Errors, Debugging",
+    "question": "Which method is used to display messages in the browser's developer console for debugging purposes?",
+    "options": [
+      "alert()",
+      "confirm()",
+      "console.log()",
+      "document.write()"
+    ],
+    "answer": "console.log()"
+  },
+  {
+    "id": 283,
+    "topic": "Errors, Debugging",
+    "question": "What is the purpose of try...catch blocks in JavaScript?",
+    "options": [
+      "To validate user input in forms",
+      "To execute code inside the \"try\" block and handle errors in the \"catch\" block",
+      "To repeat a block of code multiple times",
+      "To define custom functions for specific tasks"
+    ],
+    "answer": "To execute code inside the \"try\" block and handle errors in the \"catch\" block"
+  },
+  {
+    "id": 284,
+    "topic": "Errors, Debugging",
+    "question": "Which keyword is used to throw a custom error in JavaScript?",
+    "options": [
+      "error()",
+      "raise()",
+      "throw()",
+      "catch()"
+    ],
+    "answer": "throw()"
+  },
+  {
+    "id": 285,
+    "topic": "Errors, Debugging",
+    "question": "How can you check the type of an error object in a \"catch\" block?",
+    "options": [
+      "error.type",
+      "error.message",
+      "error.name",
+      "error.value"
+    ],
+    "answer": "error.name"
+  },
+  {
+    "id": 286,
+    "topic": "Introduction to Browser Dev Tool, Pushing Code Quality via JSLint Tool",
+    "question": "Browser Developer Tools provide features like:",
+    "options": [
+      "Checking email accounts",
+      "Making phone calls",
+      "Debugging JavaScript code",
+      "Creating HTML documents"
+    ],
+    "answer": "Debugging JavaScript code"
+  },
+  {
+    "id": 287,
+    "topic": "Introduction to Browser Dev Tool, Pushing Code Quality via JSLint Tool",
+    "question": "Which key is typically used to open the Browser Developer Tools in most web browsers?",
+    "options": [
+      "F5",
+      "F12",
+      "Ctrl + Shift + D",
+      "Alt + Enter"
+    ],
+    "answer": "F12"
+  },
+  {
+    "id": 288,
+    "topic": "Introduction to Browser Dev Tool, Pushing Code Quality via JSLint Tool",
+    "question": "What is the purpose of the JSLint tool in JavaScript development?",
+    "options": [
+      "To automatically fix syntax errors in code",
+      "To check code quality and adherence to coding standards",
+      "To compress and minify JavaScript files for production",
+      "To generate code documentation"
+    ],
+    "answer": "To check code quality and adherence to coding standards"
+  },
+  {
+    "id": 289,
+    "topic": "Introduction to Browser Dev Tool, Pushing Code Quality via JSLint Tool",
+    "question": "What does \"linting\" mean in the context of programming?",
+    "options": [
+      "Compressing code to reduce its size",
+      "Checking code for security vulnerabilities",
+      "Removing all comments from the code",
+      "Analyzing code for potential errors and enforcing coding standards"
+    ],
+    "answer": "Analyzing code for potential errors and enforcing coding standards"
+  },
+  {
+    "id": 290,
+    "topic": "Introduction to Browser Dev Tool, Pushing Code Quality via JSLint Tool",
+    "question": "Which type of tool is JSLint?",
+    "options": [
+      "A tool for testing server performance",
+      "A tool for detecting memory leaks in JavaScript",
+      "A tool for analyzing code quality and style",
+      "A tool for generating random data"
+    ],
+    "answer": "A tool for analyzing code quality and style"
+  },
+  {
+    "id": 291,
+    "topic": "Introducing to jQuery",
+    "question": "What is jQuery?",
+    "options": [
+      "A server-side scripting language",
+      "A database management system",
+      "A JavaScript library",
+      "A web browser"
+    ],
+    "answer": "A JavaScript library"
+  },
+  {
+    "id": 292,
+    "topic": "Introducing to jQuery",
+    "question": "Which symbol is used as a shorthand for the jQuery library?",
+    "options": [
+      "%",
+      "@",
+      "$",
+      "&"
+    ],
+    "answer": "$"
+  },
+  {
+    "id": 293,
+    "topic": "Introducing to jQuery",
+    "question": "How do you include the jQuery library in an HTML document?",
+    "options": [
+      "<jquery>script.js</jquery>",
+      "<script>jquery.js</script>",
+      "<link>jquery.css</link>",
+      "<script>src=\"jquery.js\"</script>"
+    ],
+    "answer": "<script>src=\"jquery.js\"</script>"
+  },
+  {
+    "id": 294,
+    "topic": "Introducing to jQuery",
+    "question": "Which jQuery function is used to wait for the document to be fully loaded before executing code?",
+    "options": [
+      "$(document).load()",
+      "$(document).ready()",
+      "$(document).onload()",
+      "$(document).load(function)"
+    ],
+    "answer": "$(document).ready()"
+  },
+  {
+    "id": 295,
+    "topic": "Introducing to jQuery",
+    "question": "What is the purpose of the \"noConflict()\" method in jQuery?",
+    "options": [
+      "To prevent conflicts with other JavaScript libraries using the same \"$\" symbol",
+      "To disable animations and effects in jQuery",
+      "To clear the document object model (DOM)",
+      "To enable cross-origin resource sharing (CORS) for jQuery requests"
+    ],
+    "answer": "To prevent conflicts with other JavaScript libraries using the same \"$\" symbol"
+  },
+  {
+    "id": 296,
+    "topic": "jQuery Selectors",
+    "question": "How do you select all <p> elements using jQuery?",
+    "options": [
+      "$(\"p\")",
+      "$(\"#p\")",
+      "$(\".p\")",
+      "\"<p>\""
+    ],
+    "answer": "$(\"p\")"
+  },
+  {
+    "id": 297,
+    "topic": "jQuery Selectors",
+    "question": "What is the purpose of using a selector in jQuery?",
+    "options": [
+      "To specify the color of elements on a web page",
+      "To group elements together for styling",
+      "To select and manipulate specific elements in the document",
+      "To create new elements dynamically"
+    ],
+    "answer": "To select and manipulate specific elements in the document"
+  },
+  {
+    "id": 298,
+    "topic": "jQuery Selectors",
+    "question": "Which jQuery selector is used to select elements with a specific class?",
+    "options": [
+      ".className",
+      "#className",
+      "className()",
+      ".className()"
+    ],
+    "answer": ".className()"
+  },
+  {
+    "id": 299,
+    "topic": "jQuery Selectors",
+    "question": "What does the following jQuery selector select? $(\"ul li\")",
+    "options": [
+      "All <ul> elements",
+      "All <li> elements",
+      "All <ul> elements inside <li> elements",
+      "All <li> elements inside <ul> elements"
+    ],
+    "answer": "All <li> elements inside <ul> elements"
+  },
+  {
+    "id": 300,
+    "topic": "jQuery Selectors",
+    "question": "How can you select an element with the ID \"myElement\" using jQuery?",
+    "options": [
+      "$(\"#myElement\")",
+      "\"$(myElement)\"",
+      "\".myElement\"",
+      "$(\"myElement\")"
+    ],
+    "answer": "$(\"#myElement\")"
+  },
+  {
+    "id": 301,
+    "topic": "jQuery Events",
+    "question": "What are jQuery events?",
+    "options": [
+      "Animated effects applied to elements",
+      "Actions or occurrences that happen in response to user interactions or browser actions",
+      "Changes in the HTML structure of a page",
+      "Functions used to modify the DOM"
+    ],
+    "answer": "Actions or occurrences that happen in response to user interactions or browser actions"
+  },
+  {
+    "id": 302,
+    "topic": "jQuery Events",
+    "question": "How do you attach a click event to a button with the ID \"myButton\" using jQuery?",
+    "options": [
+      "$(\"myButton\").on(\"click\", function() { /* code here / })",
+      "$(\"myButton\").click(function() { / code here / })",
+      "$(\"myButton\").event(\"click\", function() { / code here / })",
+      "$(\"myButton\").addEventListener(\"click\", function() { / code here */ })"
+    ],
+    "answer": "$(\"myButton\").click(function() { / code here / })"
+  },
+  {
+    "id": 303,
+    "topic": "jQuery Events",
+    "question": "Which jQuery method is used to remove an event handler from an element?",
+    "options": [
+      ".unbind()",
+      ".removeEvent()",
+      ".off()",
+      ".detach()"
+    ],
+    "answer": ".off()"
+  },
+  {
+    "id": 304,
+    "topic": "jQuery Events",
+    "question": "The \"mouseenter\" and \"mouseleave\" events are triggered when:",
+    "options": [
+      "The user clicks on an element",
+      "The user hovers over and moves the mouse out of an element",
+      "The user scrolls the web page",
+      "The user submits a form"
+    ],
+    "answer": "The user hovers over and moves the mouse out of an element"
+  },
+  {
+    "id": 305,
+    "topic": "jQuery Events",
+    "question": "How can you prevent the default action of an event in jQuery?",
+    "options": [
+      "event.stopDefault()",
+      "event.preventDefault()",
+      "event.prevent()",
+      "event.stop()"
+    ],
+    "answer": "event.preventDefault()"
+  },
+  {
+    "id": 306,
+    "topic": "jQuery Animation Effects",
+    "question": "What are animation effects in jQuery?",
+    "options": [
+      "The use of images and videos on a web page",
+      "The process of creating 3D graphics using CSS3",
+      "Visual effects applied to elements to create movement or transitions",
+      "The use of colors and gradients in web design"
+    ],
+    "answer": "Visual effects applied to elements to create movement or transitions"
+  },
+  {
+    "id": 307,
+    "topic": "jQuery Animation Effects",
+    "question": "Which jQuery method is used to animate an element's height?",
+    "options": [
+      ".animateHeight()",
+      ".animateSize()",
+      ".heightAnimate()",
+      ".animate()"
+    ],
+    "answer": ".animate()"
+  },
+  {
+    "id": 308,
+    "topic": "jQuery Animation Effects",
+    "question": "What does the \"fadeIn()\" method do in jQuery?",
+    "options": [
+      "Fades out an element by reducing its opacity",
+      "Fades in an element by increasing its opacity",
+      "Changes an element's background color to white",
+      "Slides an element down to reveal its content"
+    ],
+    "answer": "Fades in an element by increasing its opacity"
+  },
+  {
+    "id": 309,
+    "topic": "jQuery Animation Effects",
+    "question": "How can you make an element bounce up and down using jQuery?",
+    "options": [
+      "$(\"element\").slideUp().slideDown()",
+      "$(\"element\").fadeIn().fadeOut()",
+      "$(\"element\").animate({top: \"50px\"}).animate({top: \"0px\"})",
+      "$(\"element\").animate({height: \"toggle\"})"
+    ],
+    "answer": "$(\"element\").animate({top: \"50px\"}).animate({top: \"0px\"})"
+  },
+  {
+    "id": 310,
+    "topic": "jQuery Animation Effects",
+    "question": "The \"toggle()\" method in jQuery is used to:",
+    "options": [
+      "Toggle between two different styles for an element",
+      "Toggle between showing and hiding an element",
+      "Toggle between different color schemes for a web page",
+      "Toggle between two different classes for an element"
+    ],
+    "answer": "Toggle between showing and hiding an element"
+  },
+  {
+    "id": 311,
+    "topic": "jQuery DOM Traversal and Manipulation",
+    "question": "What is DOM traversal in jQuery?",
+    "options": [
+      "Changing the structure of the HTML document",
+      "Navigating through the elements in the DOM tree",
+      "Animating elements on a web page",
+      "Validating user input in forms"
+    ],
+    "answer": "Navigating through the elements in the DOM tree"
+  },
+  {
+    "id": 312,
+    "topic": "jQuery DOM Traversal and Manipulation",
+    "question": "How can you select the parent element of an element with the ID \"myElement\" using jQuery?",
+    "options": [
+      "$(\"myElement\").parent()",
+      "$(\"#myElement\").parent()",
+      "$(\"myElement\").getParent()",
+      "$(\"#myElement\").getParent()"
+    ],
+    "answer": "$(\"#myElement\").parent()"
+  },
+  {
+    "id": 313,
+    "topic": "jQuery DOM Traversal and Manipulation",
+    "question": "The \"siblings()\" method in jQuery selects:",
+    "options": [
+      "All elements that are descendants of the selected element",
+      "All elements with the same class as the selected element",
+      "All elements that are children of the selected element",
+      "All elements that are adjacent to the selected element"
+    ],
+    "answer": "All elements that are adjacent to the selected element"
+  },
+  {
+    "id": 314,
+    "topic": "jQuery DOM Traversal and Manipulation",
+    "question": "How can you insert content at the beginning of an element using jQuery?",
+    "options": [
+      "$(\"element\").prepend(\"content\")",
+      "$(\"element\").after(\"content\")",
+      "$(\"element\").prependTo(\"content\")",
+      "$(\"element\").insertBefore(\"content\")"
+    ],
+    "answer": "$(\"element\").prepend(\"content\")"
+  },
+  {
+    "id": 315,
+    "topic": "jQuery DOM Traversal and Manipulation",
+    "question": "The \"empty()\" method in jQuery is used to:",
+    "options": [
+      "Remove an element from the DOM",
+      "Remove all child elements and text content from the selected element",
+      "Empty the contents of a text input field",
+      "Remove all event handlers attached to an element"
+    ],
+    "answer": "Remove all child elements and text content from the selected element"
+  },
+  {
+    "id": 316,
+    "topic": "Data Attributes and Templates",
+    "question": "What are data attributes in jQuery?",
+    "options": [
+      "Special attributes that store data within an HTML element",
+      "Attributes that define the layout and styles of a web page",
+      "Attributes used to link external JavaScript files",
+      "Special attributes that define the MIME type of multimedia content"
+    ],
+    "answer": "Special attributes that store data within an HTML element"
+  },
+  {
+    "id": 317,
+    "topic": "Data Attributes and Templates",
+    "question": "How do you access the value of a data attribute named \"data-name\" using jQuery?",
+    "options": [
+      "$(\"element\").data(\"data-name\")",
+      "$(\"element\").attr(\"data-name\")",
+      "$(\"element\").data-name",
+      "$(\"element\").attr(data-name)"
+    ],
+    "answer": "$(\"element\").attr(\"data-name\")"
+  },
+  {
+    "id": 318,
+    "topic": "Data Attributes and Templates",
+    "question": "The \"data()\" method in jQuery can be used to:",
+    "options": [
+      "Create new HTML elements dynamically",
+      "Access and modify data attributes of an element",
+      "Append elements to the end of a container",
+      "Remove elements from the DOM"
+    ],
+    "answer": "Access and modify data attributes of an element"
+  },
+  {
+    "id": 319,
+    "topic": "Data Attributes and Templates",
+    "question": "What is a template in jQuery?",
+    "options": [
+      "A pre-designed layout for a web page",
+      "A function used to create new elements",
+      "A set of CSS styles for a website",
+      "A placeholder for dynamic content"
+    ],
+    "answer": "A placeholder for dynamic content"
+  },
+  {
+    "id": 320,
+    "topic": "Data Attributes and Templates",
+    "question": "Which method is used to compile a template in jQuery?",
+    "options": [
+      "$(\"template\").compile()",
+      "$.template.compile()",
+      "$.compile(template)",
+      "$.template(\"compile\")"
+    ],
+    "answer": "$.template(\"compile\")"
+  },
+  {
+    "id": 321,
+    "topic": "jQuery DOM Utility Functions",
+    "question": "What are DOM utility functions in jQuery?",
+    "options": [
+      "Built-in functions that manipulate the DOM structure",
+      "Functions that perform mathematical operations on HTML elements",
+      "Functions used to create complex animations",
+      "Functions that validate user input in forms"
+    ],
+    "answer": "Built-in functions that manipulate the DOM structure"
+  },
+  {
+    "id": 322,
+    "topic": "jQuery DOM Utility Functions",
+    "question": "How can you check if an element has a specific CSS class using jQuery?",
+    "options": [
+      "$(\"element\").hasClass(\"className\")",
+      "$(\"element\").hasClassName(\"className\")",
+      "$(\"element\").hasClass(className)",
+      "$(\"element\").find(\"className\")"
+    ],
+    "answer": "$(\"element\").hasClass(\"className\")"
+  },
+  {
+    "id": 323,
+    "topic": "jQuery DOM Utility Functions",
+    "question": "The \"addClass()\" method in jQuery is used to:",
+    "options": [
+      "Add a new CSS class to an element",
+      "Add a new attribute to an element",
+      "Add a new child element to an element",
+      "Add inline CSS styles to an element"
+    ],
+    "answer": "Add a new CSS class to an element"
+  },
+  {
+    "id": 324,
+    "topic": "jQuery DOM Utility Functions",
+    "question": "How can you check if an element is hidden using jQuery?",
+    "options": [
+      "$(\"element\").isHidden()",
+      "$(\"element\").hasHiddenClass()",
+      "$(\"element\").is(\":hidden\")",
+      "$(\"element\").hasAttribute(\"hidden\")"
+    ],
+    "answer": "$(\"element\").is(\":hidden\")"
+  },
+  {
+    "id": 325,
+    "topic": "jQuery DOM Utility Functions",
+    "question": "The \"remove()\" method in jQuery is used to:",
+    "options": [
+      "Remove all child elements of the selected element",
+      "Remove the selected element from the DOM",
+      "Remove specific CSS styles from an element",
+      "Remove all event handlers attached to an element"
+    ],
+    "answer": "Remove the selected element from the DOM"
+  },
+  {
+    "id": 326,
+    "topic": "jQuery Plugins",
+    "question": "What are jQuery plugins?",
+    "options": [
+      "External JavaScript libraries used for creating animations",
+      "Built-in features of the jQuery library",
+      "Additional functionalities added to the jQuery library",
+      "Templates used for creating new HTML elements"
+    ],
+    "answer": "Additional functionalities added to the jQuery library"
+  },
+  {
+    "id": 327,
+    "topic": "jQuery Plugins",
+    "question": "How do you include a jQuery plugin in an HTML document?",
+    "options": [
+      "<plugin>plugin.js</plugin>",
+      "<script>src=\"plugin.js\"</script>",
+      "<link>plugin.css</link>",
+      "<script>plugin.js</script>"
+    ],
+    "answer": "<script>src=\"plugin.js\"</script>"
+  },
+  {
+    "id": 328,
+    "topic": "jQuery Plugins",
+    "question": "What is the purpose of using a jQuery plugin?",
+    "options": [
+      "To replace all HTML elements with new ones",
+      "To extend the functionality of jQuery with new methods",
+      "To compress and minify JavaScript code",
+      "To create dynamic layouts for web pages"
+    ],
+    "answer": "To extend the functionality of jQuery with new methods"
+  },
+  {
+    "id": 329,
+    "topic": "jQuery Plugins",
+    "question": "How can you call a method from a jQuery plugin named \"myPlugin\" on an HTML element?",
+    "options": [
+      "$(\"element\").myPlugin()",
+      "$(\"element\").myPlugin.method()",
+      "myPlugin($(\"element\"))",
+      "$(\"element\").method(myPlugin)"
+    ],
+    "answer": "$(\"element\").myPlugin()"
+  },
+  {
+    "id": 330,
+    "topic": "jQuery Plugins",
+    "question": "Which of the following is a popular jQuery plugin used for creating image sliders and carousels?",
+    "options": [
+      "jSlider",
+      "imageZoomer",
+      "slick",
+      "galleryMagic"
+    ],
+    "answer": "slick"
+  },
+  {
+    "id": 331,
+    "topic": "JSON: JavaScript Object Notation (JSON)",
+    "question": "What does JSON stand for in web development?",
+    "options": [
+      "JavaScript Object Networking",
+      "Java Object Names",
+      "JavaScript Object Notation",
+      "Java Object Networking"
+    ],
+    "answer": "JavaScript Object Notation"
+  },
+  {
+    "id": 332,
+    "topic": "JSON: JavaScript Object Notation (JSON)",
+    "question": "Why is JSON commonly used in web development?",
+    "options": [
+      "To define the structure of a web page",
+      "To store data in databases",
+      "To define the layout and styles of a website",
+      "To exchange data between the client and server"
+    ],
+    "answer": "To exchange data between the client and server"
+  },
+  {
+    "id": 333,
+    "topic": "JSON: JavaScript Object Notation (JSON)",
+    "question": "Which of the following is a valid JSON syntax rule?",
+    "options": [
+      "Keys must be enclosed in double quotes",
+      "Keys can be written without quotes",
+      "Arrays cannot contain objects",
+      "Objects must be enclosed in curly braces only"
+    ],
+    "answer": "Keys must be enclosed in double quotes"
+  },
+  {
+    "id": 334,
+    "topic": "JSON: JavaScript Object Notation (JSON)",
+    "question": "In JSON, data is represented as:",
+    "options": [
+      "A list of names",
+      "A collection of attributes",
+      "A key-value pair",
+      "A sequence of functions"
+    ],
+    "answer": "A key-value pair"
+  },
+  {
+    "id": 335,
+    "topic": "JSON: JavaScript Object Notation (JSON)",
+    "question": "How is a JSON array represented?",
+    "options": [
+      "In curly braces {}",
+      "In square brackets []",
+      "With key-value pairs separated by commas",
+      "With attributes enclosed in double quotes"
+    ],
+    "answer": "In square brackets []"
+  },
+  {
+    "id": 336,
+    "topic": "JSON Data - a Name and a Value, JSON Objects, JSON Arrays, JSON",
+    "question": "Files In JSON, a name and a value are separated by:",
+    "options": [
+      "A colon :",
+      "A semicolon ;",
+      "A comma ,",
+      "A hyphen -"
+    ],
+    "answer": "A colon :"
+  },
+  {
+    "id": 337,
+    "topic": "JSON Data - a Name and a Value, JSON Objects, JSON Arrays, JSON",
+    "question": "Which JSON data structure is used to store an unordered collection of key-value pairs?",
+    "options": [
+      "JSON object",
+      "JSON array",
+      "JSON string",
+      "JSON file"
+    ],
+    "answer": "JSON object"
+  },
+  {
+    "id": 338,
+    "topic": "JSON Data - a Name and a Value, JSON Objects, JSON Arrays, JSON",
+    "question": "How do you represent a nested JSON object?",
+    "options": [
+      "By enclosing it in square brackets []",
+      "By separating key-value pairs with a comma ,",
+      "By enclosing it in curly braces {}",
+      "By using a hyphen -"
+    ],
+    "answer": "By enclosing it in curly braces {}"
+  },
+  {
+    "id": 339,
+    "topic": "JSON Data - a Name and a Value, JSON Objects, JSON Arrays, JSON",
+    "question": "What does a JSON file typically contain?",
+    "options": [
+      "JavaScript code",
+      "HTML structure",
+      "Data in JSON format",
+      "Images and multimedia content"
+    ],
+    "answer": "Data in JSON format"
+  },
+  {
+    "id": 340,
+    "topic": "JSON Data - a Name and a Value, JSON Objects, JSON Arrays, JSON",
+    "question": "Which JSON data structure is used to store an ordered list of values?",
+    "options": [
+      "JSON object",
+      "JSON array",
+      "JSON string",
+      "JSON file"
+    ],
+    "answer": "JSON array"
+  },
+  {
+    "id": 341,
+    "topic": "JSON parsing",
+    "question": "What does JSON parsing refer to in web development?",
+    "options": [
+      "Converting a JSON string into a JavaScript object",
+      "Compressing a JSON file for faster loading",
+      "Converting a JavaScript object into a JSON string",
+      "Minifying JavaScript code"
+    ],
+    "answer": "Converting a JSON string into a JavaScript object"
+  },
+  {
+    "id": 342,
+    "topic": "JSON parsing",
+    "question": "How can you parse a JSON string in JavaScript to create a JavaScript object?",
+    "options": [
+      "JSON.parse(jsonString)",
+      "jsonString.parseJSON()",
+      "parseJSON(jsonString)",
+      "JSON.stringify(jsonString)"
+    ],
+    "answer": "JSON.parse(jsonString)"
+  },
+  {
+    "id": 343,
+    "topic": "JSON parsing",
+    "question": "When parsing a JSON string, what happens if the JSON syntax is invalid?",
+    "options": [
+      "The browser automatically corrects the syntax errors",
+      "The parsing process continues, ignoring any syntax errors",
+      "An error is thrown, and the parsing process stops",
+      "The JSON string is converted to a JavaScript string"
+    ],
+    "answer": "An error is thrown, and the parsing process stops"
+  },
+  {
+    "id": 344,
+    "topic": "JSON parsing",
+    "question": "How do you access the value of a specific key in a parsed JSON object in JavaScript?",
+    "options": [
+      "jsonObject.value",
+      "jsonObject.key",
+      "jsonObject[\"key\"]",
+      "jsonObject.getValue(\"key\")"
+    ],
+    "answer": "jsonObject[\"key\"]"
+  },
+  {
+    "id": 345,
+    "topic": "JSON parsing",
+    "question": "JSON parsing is commonly used in scenarios where:",
+    "options": [
+      "Web developers want to encrypt data for security purposes",
+      "Data needs to be transferred between client and server in JSON format",
+      "Developers want to hide JavaScript code from being visible in the browser",
+      "Web applications need to create complex animations"
+    ],
+    "answer": "Data needs to be transferred between client and server in JSON format"
+  },
+  {
+    "id": 346,
+    "topic": "Ajax",
+    "question": "What does Ajax stand for in web development?",
+    "options": [
+      "Asynchronous JavaScript and XML",
+      "Active JavaScript and XML",
+      "Asynchronous Java and XML",
+      "Active Java and XML"
+    ],
+    "answer": "Asynchronous JavaScript and XML"
+  },
+  {
+    "id": 347,
+    "topic": "Ajax",
+    "question": "What is the main advantage of using Ajax in web development?",
+    "options": [
+      "It allows web pages to load faster",
+      "It provides a more secure connection between the client and server",
+      "It enables real-time communication between the client and server",
+      "It automatically creates responsive web designs"
+    ],
+    "answer": "It enables real-time communication between the client and server"
+  },
+  {
+    "id": 348,
+    "topic": "Ajax",
+    "question": "Which JavaScript method is commonly used to make Ajax requests?",
+    "options": [
+      "fetch()",
+      "request()",
+      "get()",
+      "ajax()"
+    ],
+    "answer": "fetch()"
+  },
+  {
+    "id": 349,
+    "topic": "Ajax",
+    "question": "In the context of Ajax, what does \"asynchronous\" mean?",
+    "options": [
+      "Sending multiple requests simultaneously",
+      "Allowing users to access the web page asynchronously",
+      "Executing JavaScript code without waiting for a response from the server",
+      "Ensuring the server responds to requests in an asynchronous manner"
+    ],
+    "answer": "Executing JavaScript code without waiting for a response from the server"
+  },
+  {
+    "id": 350,
+    "topic": "Ajax",
+    "question": "How does Ajax work to update web pages without requiring a full page reload?",
+    "options": [
+      "It uses Java applets to refresh the page content",
+      "It reloads the entire web page in the background without the user's knowledge",
+      "It sends and receives data from the server asynchronously, allowing for partial updates",
+      "It uses XML to store and retrieve data from the server"
+    ],
+    "answer": "It sends and receives data from the server asynchronously, allowing for partial updates"
+  },
+  {
+    "id": 351,
+    "topic": "Ajax Framework",
+    "question": "What is an Ajax framework in web development?",
+    "options": [
+      "A collection of CSS styles and layouts",
+      "A set of programming languages for web development",
+      "A JavaScript library that simplifies Ajax implementation",
+      "A server-side scripting language for handling Ajax requests"
+    ],
+    "answer": "A JavaScript library that simplifies Ajax implementation"
+  },
+  {
+    "id": 352,
+    "topic": "Ajax Framework",
+    "question": "Which Ajax framework is commonly used in combination with jQuery to simplify Ajax requests?",
+    "options": [
+      "AngularJS",
+      "React",
+      "Vue.js",
+      "XMLHttpRequest"
+    ],
+    "answer": "XMLHttpRequest"
+  },
+  {
+    "id": 353,
+    "topic": "Ajax Framework",
+    "question": "How does an Ajax framework handle the process of sending and receiving data?",
+    "options": [
+      "It automatically sends data without requiring any code from the developer",
+      "It uses predefined functions and methods to handle the request and response",
+      "It requires manual configuration of the server-side scripts for each request",
+      "It relies on the browser's built-in Ajax functionality"
+    ],
+    "answer": "It uses predefined functions and methods to handle the request and response"
+  },
+  {
+    "id": 354,
+    "topic": "Ajax Framework",
+    "question": "What is the purpose of using an Ajax framework in web development?",
+    "options": [
+      "To convert web pages into mobile applications",
+      "To simplify the process of making Ajax requests and handling responses",
+      "To optimize web pages for search engine rankings",
+      "To add multimedia content to web pages"
+    ],
+    "answer": "To simplify the process of making Ajax requests and handling responses"
+  },
+  {
+    "id": 355,
+    "topic": "Ajax Framework",
+    "question": "What is a disadvantage of using an Ajax framework in web development?",
+    "options": [
+      "It increases the loading time of web pages",
+      "It requires extensive knowledge of server-side programming languages",
+      "It may add unnecessary complexity to simple web applications",
+      "It is not compatible with modern web browsers"
+    ],
+    "answer": "It may add unnecessary complexity to simple web applications"
+  },
+  {
+    "id": 356,
+    "topic": "Ajax Architecture",
+    "question": "In the context of Ajax, what does \"asynchronous\" mean?",
+    "options": [
+      "The ability to handle multiple requests simultaneously",
+      "The ability to execute JavaScript code without waiting for server responses",
+      "The use of Java applets to enhance user interactions",
+      "The automatic refresh of web pages at regular intervals"
+    ],
+    "answer": "The ability to execute JavaScript code without waiting for server responses"
+  },
+  {
+    "id": 357,
+    "topic": "Ajax Architecture",
+    "question": "What is the primary purpose of the server in Ajax architecture?",
+    "options": [
+      "To handle all client-side interactions and calculations",
+      "To store and manage data used by the web application",
+      "To display web page content on the client's browser",
+      "To execute JavaScript code on the client side"
+    ],
+    "answer": "To store and manage data used by the web application"
+  },
+  {
+    "id": 358,
+    "topic": "Ajax Architecture",
+    "question": "Which component of Ajax architecture is responsible for sending and receiving data between the client and server?",
+    "options": [
+      "Database",
+      "Browser",
+      "Web server",
+      "XMLHttpRequest object"
+    ],
+    "answer": "XMLHttpRequest object"
+  },
+  {
+    "id": 359,
+    "topic": "Ajax Architecture",
+    "question": "What is the role of the XMLHttpRequest object in Ajax architecture?",
+    "options": [
+      "It creates and maintains a connection between the client and server",
+      "It renders web page content on the client's browser",
+      "It stores data retrieved from the server in a database",
+      "It handles client-side user interactions and events"
+    ],
+    "answer": "It creates and maintains a connection between the client and server"
+  },
+  {
+    "id": 360,
+    "topic": "Ajax Architecture",
+    "question": "Which programming language is commonly used on the server-side in Ajax architecture?",
+    "options": [
+      "Java",
+      "JavaScript",
+      "PHP",
+      "C++"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "id": 361,
+    "topic": "Web services and Ajax",
+    "question": "What are web services in the context of Ajax?",
+    "options": [
+      "A set of JavaScript functions used for client-side validation",
+      "A collection of CSS styles and layouts",
+      "A server-side technology for handling Ajax requests",
+      "A mechanism for exchanging data between the client and server"
+    ],
+    "answer": "A mechanism for exchanging data between the client and server"
+  },
+  {
+    "id": 362,
+    "topic": "Web services and Ajax",
+    "question": "Which protocol is commonly used for communication between web services and Ajax clients?",
+    "options": [
+      "HTML",
+      "CSS",
+      "XML",
+      "SOAP"
+    ],
+    "answer": "XML"
+  },
+  {
+    "id": 363,
+    "topic": "Web services and Ajax",
+    "question": "How does an Ajax client interact with a web service to retrieve data?",
+    "options": [
+      "By sending a request using the XMLHttpRequest object",
+      "By executing server-side scripts on the client's browser",
+      "By embedding the data directly into the HTML page",
+      "By using a Java applet to communicate with the web service"
+    ],
+    "answer": "By sending a request using the XMLHttpRequest object"
+  },
+  {
+    "id": 364,
+    "topic": "Web services and Ajax",
+    "question": "What is the primary advantage of using web services in Ajax?",
+    "options": [
+      "It enables real-time collaboration between multiple users",
+      "It allows developers to use server-side scripting languages on the client side",
+      "It provides a standardized way to exchange data between different platforms",
+      "It automatically optimizes web pages for mobile devices"
+    ],
+    "answer": "It provides a standardized way to exchange data between different platforms"
+  },
+  {
+    "id": 365,
+    "topic": "Web services and Ajax",
+    "question": "Which type of data format is commonly used in web services to represent data for Ajax clients?",
+    "options": [
+      "JSON",
+      "XML",
+      "JavaScript",
+      "CSV"
+    ],
+    "answer": "JSON"
+  },
+  {
+    "id": 366,
+    "topic": "Ajax using JSON and jQuery",
+    "question": "What role does JSON play in Ajax communication between the client and server?",
+    "options": [
+      "JSON is used to define the structure and layout of web pages",
+      "JSON is used to handle user interactions and events on the client side",
+      "JSON is used to send and receive data between the client and server in a standardized format",
+      "JSON is used to optimize web pages for search engine rankings"
+    ],
+    "answer": "JSON is used to send and receive data between the client and server in a standardized format"
+  },
+  {
+    "id": 367,
+    "topic": "Ajax using JSON and jQuery",
+    "question": "format How does jQuery simplify Ajax communication in web development?",
+    "options": [
+      "jQuery automatically generates server-side scripts for handling Ajax requests",
+      "jQuery provides built-in functions and methods for making Ajax requests and handling responses",
+      "jQuery replaces the need for web services in Ajax communication",
+      "jQuery automatically converts XML data into JSON format for Ajax requests"
+    ],
+    "answer": "jQuery provides built-in functions and methods for making Ajax requests and handling responses"
+  },
+  {
+    "id": 368,
+    "topic": "Ajax using JSON and jQuery",
+    "question": "responses Which jQuery method is commonly used to make asynchronous Ajax requests?",
+    "options": [
+      "$.ajax()",
+      "$.get()",
+      "$.post()",
+      "$.load()"
+    ],
+    "answer": "$.ajax()"
+  },
+  {
+    "id": 369,
+    "topic": "Ajax using JSON and jQuery",
+    "question": "What is the purpose of the \"dataType\" option in the $.ajax() method in jQuery?",
+    "options": [
+      "To specify the type of animation to be used for Ajax responses",
+      "To set the time delay between consecutive Ajax requests",
+      "To define the data format expected in the server response (e.g., JSON or XML)",
+      "To enable or disable caching of Ajax responses"
+    ],
+    "answer": "To define the data format expected in the server response (e.g., JSON or XML)"
+  },
+  {
+    "id": 370,
+    "topic": "Ajax using JSON and jQuery",
+    "question": "How can you handle errors in Ajax requests using jQuery?",
+    "options": [
+      "By using the \"error\" option in the $.ajax() method",
+      "By using the \"catch\" block in a try-catch statement",
+      "By adding a JavaScript event listener for errors",
+      "By specifying the \"error\" HTTP status code in the server response"
+    ],
+    "answer": "By using the \"error\" option in the $.ajax() method"
+  },
+  {
+    "id": 371,
+    "topic": "Introduction to Redux",
+    "question": "Question: What is Redux?",
+    "options": [
+      "A popular programming language",
+      "A state management library for JavaScript applications",
+      "A front-end framework for building web applications",
+      "A database management system"
+    ],
+    "answer": "A state management library for JavaScript applications"
+  },
+  {
+    "id": 372,
+    "topic": "Introduction to Redux",
+    "question": "Question: What problem does Redux aim to solve?",
+    "options": [
+      "Handling server-side authentication",
+      "Managing the user interface design",
+      "Simplifying the process of deploying web applications",
+      "Managing state in complex React applications"
+    ],
+    "answer": "Managing state in complex React applications"
+  },
+  {
+    "id": 373,
+    "topic": "Introduction to Redux",
+    "question": "Question: In Redux, the application state is stored in a single:",
+    "options": [
+      "Component",
+      "Function",
+      "Object",
+      "Array"
+    ],
+    "answer": "Object"
+  },
+  {
+    "id": 374,
+    "topic": "Introduction to Redux",
+    "question": "Question: What are the three principles that Redux follows?",
+    "options": [
+      "Simple, Fast, Efficient",
+      "Stateful, Modifiable, Scalable",
+      "Immutable, Centralized, Predictable",
+      "Reactive, Declarative, Flexible"
+    ],
+    "answer": "Immutable, Centralized, Predictable"
+  },
+  {
+    "id": 375,
+    "topic": "Introduction to Redux",
+    "question": "Question: Which of the following is NOT a core concept of Redux?",
+    "options": [
+      "Actions",
+      "Reducers",
+      "Components",
+      "Stores"
+    ],
+    "answer": "Components"
+  },
+  {
+    "id": 376,
+    "topic": "Introduction to Redux",
+    "question": "Question: What is the purpose of an action in Redux?",
+    "options": [
+      "To modify the application state directly",
+      "To define how the UI should look",
+      "To describe a change in the application state",
+      "To manage server-side requests"
+    ],
+    "answer": "To describe a change in the application state"
+  },
+  {
+    "id": 377,
+    "topic": "Introduction to Redux",
+    "question": "Question: In Redux, what does a reducer do?",
+    "options": [
+      "It handles asynchronous actions",
+      "It defines the structure of the application state",
+      "It modifies the state based on the action received",
+      "It manages the UI layout of the application"
+    ],
+    "answer": "It modifies the state based on the action received"
+  },
+  {
+    "id": 378,
+    "topic": "Introduction to Redux",
+    "question": "Question: What is the function of the Redux store?",
+    "options": [
+      "It is responsible for rendering React components",
+      "It holds the application state and allows access to it",
+      "It manages server-side databases",
+      "It handles all the user interactions"
+    ],
+    "answer": "It holds the application state and allows access to it"
+  },
+  {
+    "id": 379,
+    "topic": "Introduction to Redux",
+    "question": "Question: Which Redux method is used to update the state after an action is dispatched?",
+    "options": [
+      "setState()",
+      "updateState()",
+      "dispatch()",
+      "reducer()"
+    ],
+    "answer": "dispatch()"
+  },
+  {
+    "id": 380,
+    "topic": "Introduction to Redux",
+    "question": "Question: In React-Redux, how do you connect a component to the Redux store?",
+    "options": [
+      "Using the this.connect() method",
+      "By wrapping the component with the connect() function",
+      "By using the store.connect() API",
+      "By passing the Redux state directly as a prop"
+    ],
+    "answer": "By wrapping the component with the connect() function"
+  },
+  {
+    "id": 381,
+    "topic": "Introduction to Redux",
+    "question": "Subtopic: Actions, Reducers, and Stores Question: In Redux, what are actions?",
+    "options": [
+      "Functions that update the state directly",
+      "Objects that describe what happened in the application",
+      "Components that handle user interactions",
+      "Stylesheets for React components"
+    ],
+    "answer": "Objects that describe what happened in the application"
+  },
+  {
+    "id": 382,
+    "topic": "Introduction to Redux",
+    "question": "Question: What is the main purpose of actions?",
+    "options": [
+      "To store data in the Redux store",
+      "To trigger state changes in React components",
+      "To update the application state directly",
+      "To provide a clear and descriptive way to communicate state changes to the store"
+    ],
+    "answer": "To provide a clear and descriptive way to communicate state changes to the store"
+  },
+  {
+    "id": 383,
+    "topic": "Introduction to Redux",
+    "question": "Question: In Redux, what is the role of a reducer?",
+    "options": [
+      "To modify the state directly",
+      "To handle asynchronous operations",
+      "To specify how the UI should look",
+      "To calculate the new state based on the previous state and the dispatched action"
+    ],
+    "answer": "To calculate the new state based on the previous state and the dispatched action"
+  },
+  {
+    "id": 384,
+    "topic": "Introduction to Redux",
+    "question": "Question: Which of the following statements is true about reducers in Redux?",
+    "options": [
+      "Reducers are optional in Redux applications.",
+      "There can be only one reducer in a Redux application.",
+      "Reducers must be pure functions.",
+      "Reducers are responsible for directly updating the React components."
+    ],
+    "answer": "Reducers must be pure functions."
+  },
+  {
+    "id": 385,
+    "topic": "Introduction to Redux",
+    "question": "Question: What does it mean for a reducer to be a \"pure function\"?",
+    "options": [
+      "It can have side effects like modifying global variables.",
+      "It always returns the same output for the same input.",
+      "It can perform asynchronous operations.",
+      "It can directly modify the state received as an argument."
+    ],
+    "answer": "It always returns the same output for the same input."
+  },
+  {
+    "id": 386,
+    "topic": "Introduction to Redux",
+    "question": "Question: How do you combine multiple reducers into a single reducer in Redux?",
+    "options": [
+      "Use the combineReducers() function from Redux.",
+      "Concatenate the reducer functions manually.",
+      "Reducers cannot be combined in Redux.",
+      "Use the mergeReducers() function from React-Redux."
+    ],
+    "answer": "Use the combineReducers() function from Redux."
+  },
+  {
+    "id": 387,
+    "topic": "Introduction to Redux",
+    "question": "Question: What is the purpose of the Redux store?",
+    "options": [
+      "To manage the UI layout of the application.",
+      "To store data related to user authentication.",
+      "To hold the application state and allow access to it.",
+      "To handle server-side requests."
+    ],
+    "answer": "To hold the application state and allow access to it."
+  },
+  {
+    "id": 388,
+    "topic": "Introduction to Redux",
+    "question": "Question: How can you access the current state held in the Redux store?",
+    "options": [
+      "Using the store.state property",
+      "By calling the getState() method on the store",
+      "By invoking the store.dispatch() method",
+      "By accessing the state prop in React components directly"
+    ],
+    "answer": "By calling the getState() method on the store"
+  },
+  {
+    "id": 389,
+    "topic": "Introduction to Redux",
+    "question": "Question: What happens when an action is dispatched in Redux?",
+    "options": [
+      "The reducer calculates the new state and directly updates the UI.",
+      "The action is sent to the server for processing.",
+      "The store passes the action to the reducer to calculate the new state.",
+      "The action is logged in the browser console."
+    ],
+    "answer": "The store passes the action to the reducer to calculate the new state."
+  },
+  {
+    "id": 390,
+    "topic": "Introduction to Redux",
+    "question": "Question: How does the Redux store notify the React components about the state changes?",
+    "options": [
+      "By calling the componentDidUpdate() lifecycle method",
+      "Through the store.subscribe() method",
+      "By dispatching an additional \"state-changed\" action",
+      "React components are automatically aware of the state changes in the store"
+    ],
+    "answer": "Through the store.subscribe() method"
+  },
+  {
+    "id": 391,
+    "topic": "Introduction to Redux",
+    "question": "Subtopic: Usage with React Question: In React-Redux, which higher-order component (HOC) is used to connect a React component to the Redux store?",
+    "options": [
+      "connect()",
+      "reduxComponent()",
+      "mapStateToProps()",
+      "withStore()"
+    ],
+    "answer": "connect()"
+  },
+  {
+    "id": 392,
+    "topic": "Introduction to Redux",
+    "question": "Question: How do you map the Redux state to the props of a connected React component?",
+    "options": [
+      "Using the store.map() method",
+      "By directly accessing the state object in the component",
+      "By defining the mapStateToProps() function",
+      "By setting the stateToProps attribute on the component"
+    ],
+    "answer": "By defining the mapStateToProps() function"
+  },
+  {
+    "id": 393,
+    "topic": "Introduction to Redux",
+    "question": "Question: What is the purpose of the mapStateToProps() function in React-Redux?",
+    "options": [
+      "To define the component's state",
+      "To map the Redux state to the component's props",
+      "To dispatch actions to update the Redux store",
+      "To handle asynchronous operations in the component"
+    ],
+    "answer": "To map the Redux state to the component's props"
+  },
+  {
+    "id": 394,
+    "topic": "Introduction to Redux",
+    "question": "Question: Which of the following is true about the mapStateToProps() function?",
+    "options": [
+      "It is mandatory for connecting a component to the Redux store.",
+      "It can only be used in functional components, not class components.",
+      "It must return a plain object with the props to be mapped.",
+      "It can return a promise to handle asynchronous mapping."
+    ],
+    "answer": "It must return a plain object with the props to be mapped."
+  },
+  {
+    "id": 395,
+    "topic": "Introduction to Redux",
+    "question": "Question: How do you dispatch actions from a connected React component?",
+    "options": [
+      "By calling the store.dispatch() method directly",
+      "By invoking the this.dispatch() method in the component",
+      "By defining a mapDispatchToProps() function",
+      "React components cannot dispatch actions directly."
+    ],
+    "answer": "React components cannot dispatch actions directly."
+  },
+  {
+    "id": 396,
+    "topic": "Introduction to Redux",
+    "question": "Question: What is the purpose of the mapDispatchToProps() function in React-Redux?",
+    "options": [
+      "To define the component's state",
+      "To map the Redux state to the component's props",
+      "To dispatch actions to update the Redux store",
+      "To handle asynchronous operations in the component"
+    ],
+    "answer": "To dispatch actions to update the Redux store"
+  },
+  {
+    "id": 397,
+    "topic": "Introduction to Redux",
+    "question": "Question: How can you access the action creators in a React component using React-Redux?",
+    "options": [
+      "By defining a method called actionCreators() in the component",
+      "By directly importing and calling the action creators from the component",
+      "By defining a mapActionToProps() function",
+      "Action creators cannot be accessed in React components."
+    ],
+    "answer": "By directly importing and calling the action creators from the component"
+  },
+  {
+    "id": 398,
+    "topic": "Introduction to Redux",
+    "question": "Question: What does the connect() function return when used with a React component?",
+    "options": [
+      "A new instance of the component with the Redux store bound to it",
+      "A higher-order component (HOC) that wraps the original component",
+      "An object containing the Redux state and action creators as props",
+      "An error indicating that the component is not connected properly"
+    ],
+    "answer": "A higher-order component (HOC) that wraps the original component"
+  },
+  {
+    "id": 399,
+    "topic": "Introduction to Redux",
+    "question": "Question: Which part of the Redux store state should you typically pass to the React component as props?",
+    "options": [
+      "The entire Redux store object",
+      "Only the required state properties needed by the component",
+      "The entire state tree along with all reducers",
+      "The action creators used in the component"
+    ],
+    "answer": "Only the required state properties needed by the component"
+  },
+  {
+    "id": 400,
+    "topic": "Introduction to Redux",
+    "question": "Question: When using React-Redux, how can you ensure that a connected component does not re- render unnecessarily?",
+    "options": [
+      "By using the React.memo() function on the component",
+      "By setting the shouldComponentUpdate lifecycle method",
+      "By defining a shouldUpdateComponent() function",
+      "React-Redux automatically handles unnecessary re-renders for connected components"
+    ],
+    "answer": "By using the React.memo() function on the component"
+  },
+  {
+    "id": 401,
+    "topic": "Introduction to Redux",
+    "question": "Introduction of UI Scripting: Q1. What does UI stand for in \"UI Scripting\"?",
+    "options": [
+      "User Integration",
+      "Universal Interface",
+      "User Interface",
+      "Unified Implementation"
+    ],
+    "answer": "User Interface"
+  },
+  {
+    "id": 402,
+    "topic": "Introduction to Redux",
+    "question": "Q2. UI scripting is primarily concerned with:",
+    "options": [
+      "Server-side code development",
+      "Database management",
+      "Designing user interfaces and interactions",
+      "Network security"
+    ],
+    "answer": "Designing user interfaces and interactions"
+  },
+  {
+    "id": 403,
+    "topic": "Introduction to Redux",
+    "question": "Q3. Which of the following technologies is commonly used for UI scripting?",
+    "options": [
+      "HTML and CSS",
+      "Java and C++",
+      "Python and Ruby",
+      "SQL and MySQL"
+    ],
+    "answer": "HTML and CSS"
+  },
+  {
+    "id": 404,
+    "topic": "Introduction to Redux",
+    "question": "Q4. What is the main objective of UI scripting?",
+    "options": [
+      "Improving server performance",
+      "Enhancing database structure",
+      "Creating visually appealing user interfaces",
+      "Optimizing network speed"
+    ],
+    "answer": "Creating visually appealing user interfaces"
+  },
+  {
+    "id": 405,
+    "topic": "Introduction to Redux",
+    "question": "Q5. Which programming language is commonly used in UI scripting?",
+    "options": [
+      "Java",
+      "JavaScript",
+      "PHP",
+      "Perl"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 406,
+    "topic": "Introduction to Redux",
+    "question": "The Best Experience for All Users: Q1. Responsive web design aims to provide a seamless user experience:",
+    "options": [
+      "Only on desktop devices",
+      "Only on mobile devices",
+      "On all types of devices and screen sizes",
+      "Only on high-speed internet connections"
+    ],
+    "answer": "On all types of devices and screen sizes"
+  },
+  {
+    "id": 407,
+    "topic": "Introduction to Redux",
+    "question": "Q2. Which of the following is NOT a benefit of responsive web design?",
+    "options": [
+      "Improved search engine rankings",
+      "Faster loading times",
+      "Reduced development time and cost",
+      "Better compatibility with older browsers"
+    ],
+    "answer": "Better compatibility with older browsers"
+  },
+  {
+    "id": 408,
+    "topic": "Introduction to Redux",
+    "question": "Q3. Which term refers to designing and developing different versions of a website for different devices?",
+    "options": [
+      "Dynamic web design",
+      "Adaptive web design",
+      "Static web design",
+      "Responsive web design"
+    ],
+    "answer": "Adaptive web design"
+  },
+  {
+    "id": 409,
+    "topic": "Introduction to Redux",
+    "question": "Q4. In responsive web design, media queries are used to:",
+    "options": [
+      "Load media files such as images and videos",
+      "Create animations and transitions",
+      "Apply different styles based on the device's screen size and characteristics",
+      "Implement server-side functionalities"
+    ],
+    "answer": "Apply different styles based on the device's screen size and characteristics"
+  },
+  {
+    "id": 410,
+    "topic": "Introduction to Redux",
+    "question": "Q5. Which CSS property is commonly used to make images and other media adapt to the screen size?",
+    "options": [
+      "float",
+      "display",
+      "position",
+      "max-width"
+    ],
+    "answer": "max-width"
+  },
+  {
+    "id": 411,
+    "topic": "Introduction to Redux",
+    "question": "Bootstrap: Q1. What is Bootstrap?",
+    "options": [
+      "A programming language",
+      "An operating system",
+      "A front-end web development framework",
+      "A database management system"
+    ],
+    "answer": "A front-end web development framework"
+  },
+  {
+    "id": 412,
+    "topic": "Introduction to Redux",
+    "question": "Q2. What is the main purpose of using Bootstrap?",
+    "options": [
+      "To create responsive web designs",
+      "To manage server-side operations",
+      "To write complex algorithms",
+      "To secure the website from external threats"
+    ],
+    "answer": "To create responsive web designs"
+  },
+  {
+    "id": 413,
+    "topic": "Introduction to Redux",
+    "question": "Q3. Which HTML, CSS, and JavaScript framework is the basis of Bootstrap?",
+    "options": [
+      "jQuery",
+      "AngularJS",
+      "React",
+      "Twitter Bootstrap"
+    ],
+    "answer": "Twitter Bootstrap"
+  },
+  {
+    "id": 414,
+    "topic": "Introduction to Redux",
+    "question": "Q4. Which of the following is true about Bootstrap?",
+    "options": [
+      "It can only be used for mobile web development",
+      "It requires a license for commercial use",
+      "It is an open-source framework",
+      "It can only be used with Python-based web applications"
+    ],
+    "answer": "It is an open-source framework"
+  },
+  {
+    "id": 415,
+    "topic": "Introduction to Redux",
+    "question": "Q5. Which CSS class is used to create a responsive, fixed-width container in Bootstrap?",
+    "options": [
+      ".container-fixed",
+      ".container-fluid",
+      ".container-full",
+      ".container-responsive"
+    ],
+    "answer": ".container-fluid"
+  },
+  {
+    "id": 416,
+    "topic": "Introduction to Redux",
+    "question": "Bootstrap Grid System: Q1. What is the purpose of the Bootstrap Grid System?",
+    "options": [
+      "To manage server-side data",
+      "To create responsive page layouts",
+      "To generate random numbers",
+      "To handle database queries"
+    ],
+    "answer": "To create responsive page layouts"
+  },
+  {
+    "id": 417,
+    "topic": "Introduction to Redux",
+    "question": "Q2. In the Bootstrap Grid System, what is a \"row\"?",
+    "options": [
+      "A horizontal line separating two sections of a page",
+      "A vertical line separating columns of data",
+      "A container that holds columns",
+      "A single cell within a table"
+    ],
+    "answer": "A container that holds columns"
+  },
+  {
+    "id": 418,
+    "topic": "Introduction to Redux",
+    "question": "Q3. How many columns are there in a default Bootstrap grid system?",
+    "options": [
+      "10",
+      "12",
+      "16",
+      "8"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": 419,
+    "topic": "Introduction to Redux",
+    "question": "Q4. To create a full-width (100% width) element in Bootstrap, which class should be used?",
+    "options": [
+      ".container",
+      ".full-width",
+      ".container-fluid",
+      ".row-full"
+    ],
+    "answer": ".container-fluid"
+  },
+  {
+    "id": 420,
+    "topic": "Introduction to Redux",
+    "question": "Q5. How can you create a two-column layout where the left column occupies 2 grid units, and the right column occupies 10 grid units?",
+    "options": [
+      "<div class=\"col-2 col-10\">",
+      "<div class=\"col-2\"><div class=\"col-10\">",
+      "<div class=\"col-2\"> and <div class=\"col-10\">",
+      "<div class=\"col-2\" class=\"col-10\">"
+    ],
+    "answer": "<div class=\"col-2\"> and <div class=\"col-10\">"
+  },
+  {
+    "id": 421,
+    "topic": "Introduction to Redux",
+    "question": "Typography: Q1. Typography in web design refers to:",
+    "options": [
+      "The choice and arrangement of fonts on a website",
+      "The process of converting text to images",
+      "The use of bold colors and graphics",
+      "The inclusion of multimedia elements on a website"
+    ],
+    "answer": "The choice and arrangement of fonts on a website"
+  },
+  {
+    "id": 422,
+    "topic": "Introduction to Redux",
+    "question": "Q2. Which CSS property is used to control the spacing between lines of text?",
+    "options": [
+      "text-spacing",
+      "line-spacing",
+      "letter-spacing",
+      "word-spacing"
+    ],
+    "answer": "line-spacing"
+  },
+  {
+    "id": 423,
+    "topic": "Introduction to Redux",
+    "question": "Q3. What is the purpose of a \"Jumbotron\" in Bootstrap?",
+    "options": [
+      "To display a large image or video background",
+      "To showcase a collection of images",
+      "To present important text or content in a prominent and eye-catching manner",
+      "To create collapsible content sections"
+    ],
+    "answer": "To present important text or content in a prominent and eye-catching manner"
+  },
+  {
+    "id": 424,
+    "topic": "Introduction to Redux",
+    "question": "Q4. Which Bootstrap class is used to emphasize text by making it bold and larger?",
+    "options": [
+      ".emphasize",
+      ".lead",
+      ".jumbotron",
+      ".highlight"
+    ],
+    "answer": ".lead"
+  },
+  {
+    "id": 425,
+    "topic": "Introduction to Redux",
+    "question": "Q5. Which CSS property is commonly used to control the alignment of text within an element?",
+    "options": [
+      "align-text",
+      "text-align",
+      "align-content",
+      "text-style"
+    ],
+    "answer": "text-align"
+  },
+  {
+    "id": 426,
+    "topic": "Introduction to Redux",
+    "question": "Overview of Bootstrap, Need to use Bootstrap: Q1. What is Bootstrap primarily used for?",
+    "options": [
+      "Server-side scripting",
+      "Front-end web development",
+      "Database management",
+      "Mobile application development"
+    ],
+    "answer": "Front-end web development"
+  },
+  {
+    "id": 427,
+    "topic": "Introduction to Redux",
+    "question": "Q2. Why should developers consider using Bootstrap?",
+    "options": [
+      "It is the only framework available for web development",
+      "It provides pre-built templates for all types of websites",
+      "It offers a responsive grid system and a collection of UI components",
+      "It is owned by a large corporation and has better support"
+    ],
+    "answer": "It offers a responsive grid system and a collection of UI components"
+  },
+  {
+    "id": 428,
+    "topic": "Introduction to Redux",
+    "question": "Q3. Which programming languages are commonly used in combination with Bootstrap?",
+    "options": [
+      "HTML and JavaScript",
+      "C++ and Python",
+      "Java and PHP",
+      "Ruby and SQL"
+    ],
+    "answer": "HTML and JavaScript"
+  },
+  {
+    "id": 429,
+    "topic": "Introduction to Redux",
+    "question": "Q4. Which of the following is true about the Bootstrap framework?",
+    "options": [
+      "It can only be used for small-scale projects",
+      "It is not compatible with mobile devices",
+      "It is an open-source project maintained by Twitter",
+      "It can only be used with specific web hosting providers"
+    ],
+    "answer": "It is an open-source project maintained by Twitter"
+  },
+  {
+    "id": 430,
+    "topic": "Introduction to Redux",
+    "question": "Q5. What is the primary advantage of using Bootstrap for web development?",
+    "options": [
+      "It reduces the need for server-side scripting",
+      "It automatically optimizes the website for SEO",
+      "It saves development time and effort by providing ready-to-use components",
+      "It eliminates the need for using JavaScript in web development"
+    ],
+    "answer": "It saves development time and effort by providing ready-to-use components"
+  },
+  {
+    "id": 431,
+    "topic": "Introduction to Redux",
+    "question": "Bootstrap Grid System, Grid Classes, Basic Structure of a Bootstrap Grid: Q1. In the Bootstrap grid system, how many columns does the grid consist of by default?",
+    "options": [
+      "6",
+      "10",
+      "12",
+      "16"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": 432,
+    "topic": "Introduction to Redux",
+    "question": "Q2. How do you create a row in the Bootstrap grid system?",
+    "options": [
+      "<div class=\"row\">",
+      "<row>",
+      "<div.row>",
+      "[row]"
+    ],
+    "answer": "<div class=\"row\">"
+  },
+  {
+    "id": 433,
+    "topic": "Introduction to Redux",
+    "question": "Q3. To create a two-column layout using Bootstrap, how many grid units should each column occupy?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "12"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": 434,
+    "topic": "Introduction to Redux",
+    "question": "Q4. What is the class name for creating a column that spans across all 12 grid units?",
+    "options": [
+      ".col-12",
+      ".col-span-12",
+      ".col-full",
+      ".col-max"
+    ],
+    "answer": ".col-12"
+  },
+  {
+    "id": 435,
+    "topic": "Introduction to Redux",
+    "question": "Q5. How can you create a responsive layout in Bootstrap using columns?",
+    "options": [
+      "By setting a fixed width for each column",
+      "By hiding certain columns on specific devices using CSS",
+      "By using different media queries for each column",
+      "By using Bootstrap's grid classes, which automatically adjust column sizes based on screen size"
+    ],
+    "answer": "By using Bootstrap's grid classes, which automatically adjust column sizes based on screen size"
+  },
+  {
+    "id": 436,
+    "topic": "Introduction to Redux",
+    "question": "size Typography: Q1. Which aspect of typography does Bootstrap mainly focus on?",
+    "options": [
+      "Font size and style",
+      "Page layout and alignment",
+      "Color schemes and contrast",
+      "Text content and readability"
+    ],
+    "answer": "Font size and style"
+  },
+  {
+    "id": 437,
+    "topic": "Introduction to Redux",
+    "question": "Q2. How can you create larger, bold text using Bootstrap?",
+    "options": [
+      "Use the <strong> HTML tag",
+      "Apply the class .big-text",
+      "Use the <b> HTML tag",
+      "Apply the class .lead"
+    ],
+    "answer": "Apply the class .lead"
+  },
+  {
+    "id": 438,
+    "topic": "Introduction to Redux",
+    "question": "Q3. Which CSS property in Bootstrap controls the spacing between lines of text?",
+    "options": [
+      "line-height",
+      "font-spacing",
+      "text-spacing",
+      "line-spacing"
+    ],
+    "answer": "line-height"
+  },
+  {
+    "id": 439,
+    "topic": "Introduction to Redux",
+    "question": "Q4. What is the purpose of the \"Jumbotron\" component in Bootstrap?",
+    "options": [
+      "To display a large, prominent image or video",
+      "To create a collapsible content section",
+      "To highlight important text or content",
+      "To create a navigation bar"
+    ],
+    "answer": "To highlight important text or content"
+  },
+  {
+    "id": 440,
+    "topic": "Introduction to Redux",
+    "question": "Q5. How can you create a text-muted element in Bootstrap?",
+    "options": [
+      "Apply the class .text-muted to the element",
+      "Use the <muted> HTML tag",
+      "Use the <small> HTML tag",
+      "Apply the class .muted-text to the element"
+    ],
+    "answer": "Apply the class .text-muted to the element"
+  },
+  {
+    "id": 441,
+    "topic": "Introduction to Redux",
+    "question": "Components \u2013 Tables, Images, Jumbotron, Wells, Alerts, Buttons, Button Groups, Badges/Labels, Progress Bars, Pagination, List Groups, Panels, Dropdowns, Collapse, Tabs/Pills, Navbar: Q1. Which Bootstrap component is used to create a group of navigation links?",
+    "options": [
+      "Buttons",
+      "List Groups",
+      "Navbar",
+      "Progress Bars"
+    ],
+    "answer": "Navbar"
+  },
+  {
+    "id": 442,
+    "topic": "Introduction to Redux",
+    "question": "Q2. How can you create a button group in Bootstrap?",
+    "options": [
+      "Use the <button-group> HTML tag",
+      "Apply the class .btn-group to a group of buttons",
+      "Use the <group-button> HTML tag",
+      "Apply the class .button-group to a group of buttons"
+    ],
+    "answer": "Apply the class .btn-group to a group of buttons"
+  },
+  {
+    "id": 443,
+    "topic": "Introduction to Redux",
+    "question": "Q3. Which Bootstrap component is used to display a series of content panels stacked on top of each other?",
+    "options": [
+      "Progress Bars",
+      "List Groups",
+      "Panels",
+      "Alerts"
+    ],
+    "answer": "Panels"
+  },
+  {
+    "id": 444,
+    "topic": "Introduction to Redux",
+    "question": "Q4. Which Bootstrap component is used to display a notification message to the user?",
+    "options": [
+      "Dropdowns",
+      "Wells",
+      "Alerts",
+      "Badges/Labels"
+    ],
+    "answer": "Alerts"
+  },
+  {
+    "id": 445,
+    "topic": "Introduction to Redux",
+    "question": "Q5. How can you create a collapsible content section in Bootstrap?",
+    "options": [
+      "Use the <collapsible> HTML tag",
+      "Apply the class .collapsible to a content section",
+      "Use the <collapse> HTML tag",
+      "Apply the class .collapse to a content section"
+    ],
+    "answer": "Apply the class .collapse to a content section"
+  },
+  {
+    "id": 446,
+    "topic": "Introduction to Redux",
+    "question": "Forms, Inputs: Q1. How can you create a form in Bootstrap?",
+    "options": [
+      "Use the <form> HTML tag with Bootstrap-specific classes",
+      "Apply the class .form to a container",
+      "Use the <form-group> HTML tag",
+      "Apply the class .form-container to a container"
+    ],
+    "answer": "Use the <form> HTML tag with Bootstrap-specific classes"
+  },
+  {
+    "id": 447,
+    "topic": "Introduction to Redux",
+    "question": "Q2. Which Bootstrap class is used to create a horizontal form layout?",
+    "options": [
+      ".form-horizontal",
+      ".horizontal-form",
+      ".form-grid",
+      ".grid-form"
+    ],
+    "answer": ".form-horizontal"
+  },
+  {
+    "id": 448,
+    "topic": "Introduction to Redux",
+    "question": "Q3. What is the purpose of the \"input-group\" component in Bootstrap?",
+    "options": [
+      "To group related form fields together",
+      "To create a form with a rounded border",
+      "To create a responsive input field",
+      "To create a dropdown menu within an input field"
+    ],
+    "answer": "To group related form fields together"
+  },
+  {
+    "id": 449,
+    "topic": "Introduction to Redux",
+    "question": "Q4. Which Bootstrap class is used to create a styled checkbox or radio button?",
+    "options": [
+      ".checkbox",
+      ".form-check",
+      ".input-style",
+      ".custom-control"
+    ],
+    "answer": ".form-check"
+  },
+  {
+    "id": 450,
+    "topic": "Introduction to Redux",
+    "question": "Q5. How can you create a select dropdown in Bootstrap?",
+    "options": [
+      "Use the <select> HTML tag with Bootstrap-specific classes",
+      "Apply the class .dropdown to a list of options",
+      "Use the <dropdown> HTML tag",
+      "Apply the class .form-select to a <select> element"
+    ],
+    "answer": "Apply the class .form-select to a <select> element"
+  },
+  {
+    "id": 451,
+    "topic": "Introduction to Redux",
+    "question": "Bootstrap Themes, Templates: Q1. What are Bootstrap themes used for?",
+    "options": [
+      "Managing server-side operations",
+      "Customizing the appearance of Bootstrap components",
+      "Creating complex algorithms for web development",
+      "Handling database queries"
+    ],
+    "answer": "Customizing the appearance of Bootstrap components"
+  },
+  {
+    "id": 452,
+    "topic": "Introduction to Redux",
+    "question": "Q2. Where can developers find ready-to-use Bootstrap themes and templates?",
+    "options": [
+      "They can only be created from scratch",
+      "They are available for purchase from a specific website",
+      "They can be found on Bootstrap's official website and various third-party sources",
+      "They are available exclusively in the Bootstrap documentation"
+    ],
+    "answer": "They can be found on Bootstrap's official website and various third-party sources"
+  },
+  {
+    "id": 453,
+    "topic": "Introduction to Redux",
+    "question": "Q3. What is the advantage of using a Bootstrap template for web development?",
+    "options": [
+      "It guarantees a high search engine ranking",
+      "It ensures complete responsiveness across all devices",
+      "It saves development time by providing a pre-designed layout and styles",
+      "It eliminates the need for writing custom JavaScript code"
+    ],
+    "answer": "It saves development time by providing a pre-designed layout and styles"
+  },
+  {
+    "id": 454,
+    "topic": "Introduction to Redux",
+    "question": "Q4. Which of the following is true about Bootstrap themes and templates?",
+    "options": [
+      "They are all free to use without any restrictions",
+      "They can only be used for personal projects",
+      "Some themes may require attribution or a license for commercial use",
+      "They are only available for mobile web development"
+    ],
+    "answer": "Some themes may require attribution or a license for commercial use"
+  },
+  {
+    "id": 455,
+    "topic": "Introduction to Redux",
+    "question": "Q5. How can you apply a Bootstrap theme to your web project?",
+    "options": [
+      "By including the theme's CSS file in your project's HTML code",
+      "By modifying the Bootstrap framework's core files",
+      "By using a server-side script to dynamically apply the theme",
+      "By embedding the theme's JavaScript directly in your HTML code"
+    ],
+    "answer": "By including the theme's CSS file in your project's HTML code"
+  },
+  {
+    "id": 456,
+    "topic": "Introduction to Redux",
+    "question": "Introduction to Web Security: Q1. What is the primary objective of web security?",
+    "options": [
+      "Enhancing website aesthetics",
+      "Improving server performance",
+      "Protecting websites and web applications from threats and vulnerabilities",
+      "Optimizing search engine rankings"
+    ],
+    "answer": "Protecting websites and web applications from threats and vulnerabilities"
+  },
+  {
+    "id": 457,
+    "topic": "Introduction to Redux",
+    "question": "Q2. Why is web security essential for online businesses?",
+    "options": [
+      "To increase website traffic",
+      "To prevent competitors from accessing the website",
+      "To protect sensitive user data and build trust with customers",
+      "To eliminate the need for website backups"
+    ],
+    "answer": "To protect sensitive user data and build trust with customers"
+  },
+  {
+    "id": 458,
+    "topic": "Introduction to Redux",
+    "question": "Q3. Which of the following is NOT a common web security threat?",
+    "options": [
+      "SQL Injection",
+      "Cross-Site Scripting (XSS)",
+      "Internet cookies",
+      "Cross-Site Request Forgery (CSRF)"
+    ],
+    "answer": "Internet cookies"
+  },
+  {
+    "id": 459,
+    "topic": "Introduction to Redux",
+    "question": "Q4. How can HTTPS (HyperText Transfer Protocol Secure) enhance web security?",
+    "options": [
+      "By reducing website loading speed",
+      "By encrypting data transmitted between the user's browser and the server",
+      "By preventing search engines from indexing the website",
+      "By displaying a website's content in multiple languages"
+    ],
+    "answer": "By encrypting data transmitted between the user's browser and the server"
+  },
+  {
+    "id": 460,
+    "topic": "Introduction to Redux",
+    "question": "Q5. What is the role of a firewall in web security?",
+    "options": [
+      "Protecting the physical server from physical damage",
+      "Monitoring and controlling incoming and outgoing network traffic",
+      "Encrypting sensitive data stored in the database",
+      "Designing the visual layout of a website"
+    ],
+    "answer": "Monitoring and controlling incoming and outgoing network traffic"
+  },
+  {
+    "id": 461,
+    "topic": "Introduction to Redux",
+    "question": "SQL Injection, Cross-Site Scripting (XSS): Q1. SQL Injection is a web security vulnerability that occurs when:",
+    "options": [
+      "An attacker gains unauthorized access to a website's server",
+      "An attacker inserts malicious code into a website's database query",
+      "An attacker steals sensitive cookies from users' browsers",
+      "An attacker forges fake login credentials to gain access to a website"
+    ],
+    "answer": "An attacker inserts malicious code into a website's database query"
+  },
+  {
+    "id": 462,
+    "topic": "Introduction to Redux",
+    "question": "Q2. Cross-Site Scripting (XSS) is a type of web security vulnerability that allows attackers to:",
+    "options": [
+      "Bypass firewalls and access sensitive data",
+      "Execute malicious scripts in users' browsers",
+      "Manipulate website layout and design",
+      "Redirect users to a different website"
+    ],
+    "answer": "Execute malicious scripts in users' browsers"
+  },
+  {
+    "id": 463,
+    "topic": "Introduction to Redux",
+    "question": "Q3. How can developers prevent SQL Injection attacks?",
+    "options": [
+      "By disabling user input on the website",
+      "By encrypting all user data before storing it in the database",
+      "By using prepared statements or parameterized queries in database interactions",
+      "By restricting all database access to a single administrative account"
+    ],
+    "answer": "By using prepared statements or parameterized queries in database interactions"
+  },
+  {
+    "id": 464,
+    "topic": "Introduction to Redux",
+    "question": "Q4. Which type of XSS attack is considered the most dangerous?",
+    "options": [
+      "Stored XSS",
+      "Reflected XSS",
+      "DOM-based XSS",
+      "Persistent XSS"
+    ],
+    "answer": "Stored XSS"
+  },
+  {
+    "id": 465,
+    "topic": "Introduction to Redux",
+    "question": "Q5. How can developers mitigate Cross-Site Scripting (XSS) vulnerabilities?",
+    "options": [
+      "By validating and sanitizing user input",
+      "By disabling JavaScript on the website",
+      "By blocking all incoming network traffic",
+      "By using encryption to hide sensitive data from attackers"
+    ],
+    "answer": "By validating and sanitizing user input"
+  },
+  {
+    "id": 466,
+    "topic": "Introduction to Redux",
+    "question": "JSON and Security Concerns, Cross-Site Request Forgery (CSRF), Injection Attacks: Q1. JSON (JavaScript Object Notation) is commonly used for:",
+    "options": [
+      "Storing data in relational databases",
+      "Defining website layouts and styles",
+      "Exchanging data between web servers and clients",
+      "Executing server-side code"
+    ],
+    "answer": "Exchanging data between web servers and clients"
+  },
+  {
+    "id": 467,
+    "topic": "Introduction to Redux",
+    "question": "Q2. What are some security concerns related to using JSON data?",
+    "options": [
+      "The lack of support for popular web browsers",
+      "The potential for injecting malicious code in JSON objects",
+      "The limited data size that can be transmitted with JSON",
+      "The difficulty of integrating JSON with server-side languages"
+    ],
+    "answer": "The potential for injecting malicious code in JSON objects"
+  },
+  {
+    "id": 468,
+    "topic": "Introduction to Redux",
+    "question": "Q3. Cross-Site Request Forgery (CSRF) is an attack that exploits:",
+    "options": [
+      "Insecure Direct Object References (IDOR)",
+      "Unvalidated redirects and forwards",
+      "Weak authentication mechanisms",
+      "The trust a website has in a user's browser for authenticated requests"
+    ],
+    "answer": "The trust a website has in a user's browser for authenticated requests"
+  },
+  {
+    "id": 469,
+    "topic": "Introduction to Redux",
+    "question": "Q4. How can developers prevent Cross-Site Request Forgery (CSRF) attacks?",
+    "options": [
+      "By using HTTPS for all web pages",
+      "By implementing strong password policies",
+      "By using CSRF tokens in forms and AJAX requests",
+      "By restricting access to the website to specific IP addresses"
+    ],
+    "answer": "By using CSRF tokens in forms and AJAX requests"
+  },
+  {
+    "id": 470,
+    "topic": "Introduction to Redux",
+    "question": "Q5. Injection attacks involve:",
+    "options": [
+      "Manipulating cookies in a user's browser",
+      "Exploiting vulnerabilities in network routers",
+      "Forging HTTP headers in web requests",
+      "Inserting malicious code into data input fields to exploit vulnerabilities in a system"
+    ],
+    "answer": "Inserting malicious code into data input fields to exploit vulnerabilities in a system"
+  },
+  {
+    "id": 471,
+    "topic": "Introduction to Redux",
+    "question": "Security Standards (OWASP): Q1. What does OWASP stand for in the context of web security?",
+    "options": [
+      "Organization of Web Application Security Professionals",
+      "Open Web Application Security Protocol",
+      "Online Web Application Security Platform",
+      "Open Web Application Security Project"
+    ],
+    "answer": "Open Web Application Security Project"
+  },
+  {
+    "id": 472,
+    "topic": "Introduction to Redux",
+    "question": "Q2. What is the primary mission of OWASP?",
+    "options": [
+      "To develop and maintain web security standards",
+      "To provide web hosting services to organizations",
+      "To build a network of web developers and designers",
+      "To create and promote the use of secure web applications"
+    ],
+    "answer": "To create and promote the use of secure web applications"
+  },
+  {
+    "id": 473,
+    "topic": "Introduction to Redux",
+    "question": "Q3. Which of the following is an OWASP project that focuses on identifying the most critical security risks facing web applications?",
+    "options": [
+      "OWASP Zed Attack Proxy (ZAP)",
+      "OWASP Top Ten",
+      "OWASP Application Security Verification Standard (ASVS)",
+      "OWASP Security Knowledge Framework"
+    ],
+    "answer": "OWASP Top Ten"
+  },
+  {
+    "id": 474,
+    "topic": "Introduction to Redux",
+    "question": "Q4. The OWASP Zed Attack Proxy (ZAP) is a tool used for:",
+    "options": [
+      "Defending against Distributed Denial of Service (DDoS) attacks",
+      "Scanning web applications for security vulnerabilities",
+      "Managing digital certificates for secure communications",
+      "Providing secure authentication for users"
+    ],
+    "answer": "Scanning web applications for security vulnerabilities"
+  },
+  {
+    "id": 475,
+    "topic": "Introduction to Redux",
+    "question": "Q5. Which OWASP project provides a standardized set of security requirements for web application development and verification?",
+    "options": [
+      "OWASP Testing Guide",
+      "OWASP Web Security Testing Guide",
+      "OWASP Application Security Verification Standard (ASVS)",
+      "OWASP Code Review Guide"
+    ],
+    "answer": "OWASP Application Security Verification Standard (ASVS)"
+  }
+]
