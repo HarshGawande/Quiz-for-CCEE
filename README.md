@@ -48,6 +48,14 @@ To create a production-ready build:
 npm run build
 ```
 
+## Deployment
+
+This application is automatically deployed to Vercel.
+
+- **Live URL:** [https://quiz-bank-snowy.vercel.app](https://quiz-bank-snowy.vercel.app)
+
+Every push to the `main` branch triggers an automatic build and deployment.
+
 ## Project Structure
 
 ```
