@@ -1,3 +1,19 @@
+"""
+PDF to JSON Converter for Quiz Bank
+
+This utility script extracts multiple-choice questions from a specific PDF format
+and converts them into a JSON structure compatible with the Quiz Bank application.
+
+Requirements:
+    - pdfplumber library (`pip install pdfplumber`)
+    - Source PDF file (default configured as "5.WBT MCQ bank.pdf")
+
+Usage:
+    Ensure the PDF file is in the same directory or update the `file_path` variable.
+    Run the script: `python pdf_to_json_converter.py`
+    The output will be saved to `extracted_questions.json`.
+"""
+
 import pdfplumber
 import re
 import json
